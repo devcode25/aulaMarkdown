@@ -18,4 +18,5 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
 
 # Engenharia de Requisitos
+## Arthur Paulino
 
