@@ -16,3 +16,13 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 
 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
+conceito geral:
+os processos inerentes ao descobrimento, análise, validação e documentação dos requisitos, bem como as técnicas aplicáveis
+ao desenvolvimento dos processos. Sob o ponto de vista conceitual, no contexto da Engenharia de Requisitos,
+são apresentados os fundamentos da engenharia de requisitos, 
+os requisitos e as especificações do produto e, os diferentes tipos de processos e de técnicas aplicáveis.
+
+tipos de requisitos: Extração de Requisitos = descobrimento (elicit, em inglês);
+Análise e Negociação de Requisitos = requisitos acordados;
+Validação de Requisitos = consistentes, completos, precisos;
+Gerenciamento de Mudança de Requisitos;
