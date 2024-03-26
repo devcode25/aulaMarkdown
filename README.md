@@ -20,18 +20,18 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 ## Engenharia De Requisitos:
 
 ### Conceito Geral:
+Engenharia de requesitos e um processo que utiliza de diversas ferramentas como fluxogramas
 
-
-
+![Fluxograma exemplo](https://github.com/Davi8002/AulaMarkdown/assets/164496370/147ff8d9-b0a2-4136-b3f8-028a21b8e291)
 
 ### Tipos De Requisitos:
-
-
-
+Requesitos Fucionais e não Fucionais 
 
 ### Exemplos:
 
 
+
+![Engenharia_Requisitos_1](https://github.com/Davi8002/AulaMarkdown/assets/164496370/9460f8f8-32fb-4936-99ca-a6ab6e6c7d85)
 
    Numero Da Uc | Nome | Função
 ---------------------|------|-------
