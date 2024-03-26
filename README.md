@@ -15,4 +15,12 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 - Deverá inserir links para acessar sites de conteúdo sobre o assunto.
 
 
-## Vamos lá! Começe a atividade logo abaixo 👇👇👇
+**Vamos lá! Começe a atividade logo abaixo 👇👇👇**
+
+
+# Engenharia de Requisitos
+
+### O que é?
+
+  Engenharia de requisitos é a área 
+
