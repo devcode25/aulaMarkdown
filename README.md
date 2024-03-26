@@ -37,6 +37,8 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 Requesitos Fucionais | Nome | Função
 ---------------------|------|-------
 Uc 1                 | Nome1| Função 1
+Uc 2                 | Nome2| Função 2
+Uc 3                 | Nome3| Função 3
 
 
 
