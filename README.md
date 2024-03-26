@@ -16,3 +16,10 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 
 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
+
+
+# Engenharia de Requisitos
+
+* Conceito
+##### A engenharia de requisitos é um processo que engloba todas as atividades que contribuem para a produção de um documento de requisitos e sua manutenção ao longo do tempo.
+##### Os requisitos são categorizados por requisitos funcionais e não funcionais.
