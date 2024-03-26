@@ -16,3 +16,8 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 
 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
+
+# ENGENHARIA DE REQUISITOS
+
+### oferece controles e padrões para que as exigências do projeto sejam claras, correspondam às suas finalidades e possam ser compreendidas por todos os responsáveis. 
+![download](https://github.com/Guilhermerachide/aulaMarkdown/assets/164504192/bc462ddf-febd-48bc-ae6e-488f7cb2d6fc)
