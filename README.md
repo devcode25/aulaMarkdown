@@ -16,3 +16,8 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 
 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
+
+
+<h1>ENGENHARIA DE REQUISITOS</h1>
+<h2>Conceito</h2>
+Uma lista de tarefas e análise que registra todo o processo da criação de um software, tendo como o objetivo gerenciar tudo desse processo.
