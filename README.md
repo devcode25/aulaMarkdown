@@ -16,3 +16,17 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 
 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
+# **ENGENHARIA DE REQUISITOS** <h1>
+##### CONCEITO <h5>
+*A engenharia de requisitos oferece controles e padrões para que as exigências do projeto sejam claras, correspondam às suas finalidades e possam ser compreendidas por todos os responsáveis. Isso garante a qualidade do software, além de mais produtividade em suas etapas de desenvolvimento, operação e manutenção.
+##### TIPOS DE REQUISITOS <h5>
+Requisitos funcionais,
+Requisitos não funcionais,
+Requisitos de domínio,
+Requisitos subconscientes,
+Requisitos conscientes,
+Requisitos inconscientes,
+Levantamento dos Requisitos e
+Análise de Requisitos.
+##### TIPOS DE REQUISITOS <h5>
+Alguns exemplos são: O software deve permitir o cadastro de clientes; O software deve permitir a geração de relatórios sobre o desempenho de vendas no semestre; O software deve permitir o pagamento das compras através de cartão de crédito.
