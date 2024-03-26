@@ -33,7 +33,7 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 
 
 
-Numero Da Uc | Nome | Função
+   Numero Da Uc | Nome | Função
 ---------------------|------|-------
 Uc 1                 | Nome1 | Função 1
 Uc 2                 | Nome2 | Função 2
