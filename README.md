@@ -19,6 +19,7 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 
 # Engenharia De Requesitos
 
+
 ## Conceito Geral
 
 
@@ -30,3 +31,12 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 
 
 ## Exemplos
+
+
+
+
+--------- | ------            
+Exemplo 1 | R$ 10 
+Exemplo 2 | R$ 8  
+Exemplo 3 | R$ 7  
+Exemplo 4 | R$ 8
