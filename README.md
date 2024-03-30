@@ -16,3 +16,13 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 
 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
+
+### Engenharia de Requisitos <h2>
+
+* **Conceito:**
+  Entendemos como engenharia de requisitos como sendo a **aplicação de controles e padrões para que as exigências de um projeto sejam claras, correspondam às suas finalidades e possam ser entendidas por todos aqueles trabalhando no software**. Alguns de seus principais objetivos são:
+
+1. **Qualidade de software;**
+2. **Produtividade no desenvolvimento, operação e manutenção de software;**
+3. **Permitir que profissionais tenham controle sobre o desenvolvimento de software dentro de custos, prazos e níveis de qualidade desejados.**
+* **Requisitos**
