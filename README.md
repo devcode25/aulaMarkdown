@@ -20,7 +20,7 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 ## Engenharia De Requisitos:
 
 ### Conceito Geral:
-Engenharia de requisitos e um processo que utiliza de diversas ferramentas como fluxogramas para a documentar e registar algo 
+Engenharia de requisitos e um processo que utiliza de diversas ferramentas como fluxogramas para documentar e registar os requisitos de algo 
 
 ![Fluxograma exemplo](https://github.com/Davi8002/AulaMarkdown/assets/164496370/147ff8d9-b0a2-4136-b3f8-028a21b8e291)
 
@@ -42,6 +42,9 @@ Uc 3                 | Nome3 | Função 3
 
 
 
-## Links Sobre Engenharia De Requisitos 
+#### Links Sobre Engenharia De Requisitos:
+
+<https://querobolsa.com.br/revista/engenharia-de-requisitos>
+
 
 
