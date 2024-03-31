@@ -21,5 +21,7 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 # Engenharia de Requisitos - Ian Porto Guedes
 
  A engenharia de requisitos se concentra em definir, documentar e executar os requisitos do sistema de um software. É nesse ponto em que os pedidos do cliente se tornam o plano detalhado para a criação do software que atenda as expectativas do cliente e o que ele realmente queria. É importante entender como o projeto pode se alinhar satisfatoriamente com uma boa UX E UI do projeto.
+ É importante o projeto passar por cada fase de sua avaliação; análise dos requisitos, verificação dos requisitos e a validação do resultado final.
 
+ 
  
