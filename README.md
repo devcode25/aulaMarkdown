@@ -45,6 +45,6 @@ Uc 3                 | Nome3 | Função 3
 #### Links Sobre Engenharia De Requisitos:
 
 [Link_1](https://querobolsa.com.br/revista/engenharia-de-requisitos)
-
+[Link_2](https://www.devmedia.com.br/introducao-a-engenharia-de-requisitos/8034)
 
 
