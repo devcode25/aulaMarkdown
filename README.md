@@ -18,3 +18,21 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 
 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
+
+## Engenharia de requesitos <h1>
+### O que é e pra que serve
+A engenharia de requisistos consiste numa maneira de organização para um projeto, visando claros objetivos e suas finalidades.
+![Análise de requesitos](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI_hYThxrzO1OSBMXq0uZ0b9IrbbMoz1DKLg&usqp=CAU)
+### Tipos de requisitos 
+* Requsitos funcionais
+São as funções que o sistema deve fornecer e o que ele deve ou não fazer
+1. Botões de incluir, alterar ou excluir um registro
+2. Opções de cadastro
+3. Pesquisas de navegação
+* Requisitos não funcionais
+Impõe características e limites, comumente apelidados de "atributos dew qualidade"
+1. Uma proteção do sistema
+2. Uma fácil utilização
+3. Deve cumprir regulamentos necessários 
+
+![Requisitos](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaPWAlFdfgGtsvboXpb4ZjMtub6NcsnEShAzMTTwrLScHQO040K9GsGUr0P6j2fyPQjQE&usqp=CAU)
