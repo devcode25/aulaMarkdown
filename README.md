@@ -52,4 +52,6 @@ Um aluno pode se matricular em uma disciplina desde que ele tenha sido aprovado 
 UC é reconhecido como use case ou caso de uso, ele serve para falar a finalidade de cada item em uma interface. Exemplo:
 ![imagem](https://github.com/EuSins/aulaMarkdown/assets/164503651/3b870e0c-6ed6-4de3-bcd5-34002cad6da7)
 
-UC
+UC  |        NOME DA UC           |        DESCRIÇÃO DA UC           |
+----|-----------------------------|----------------------------------|
+UC-1| Configuração do Wi-fi       |
