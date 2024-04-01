@@ -24,3 +24,8 @@ A engenharia de requisitos oferece controles e padrões para que as exigências 
 Existem dois tipos de classificação de requisitos, são eles: Requisitos Funcionais (RF) e Requisitos Não-Funcionais (RNF).
 <img src="https://felipelirarocha.files.wordpress.com/2012/03/waterfall.png" alt="Girl in a jacket" width="500" height="300">
 <img src="https://luizladeira.files.wordpress.com/2013/07/analista.jpg" alt="Girl in a jacket" width="500" height="300">
+# use case:
+Casos de uso, use cases, conceitos criados por Ivar Jacobson em 1986, são textos ou diagramas que descrevem e justificam as tarefas a realizar em uma plataforma ou sistema através das interações com seus usuários.
+<img src="https://www.cin.ufpe.br/~rls2/processo_tg/Metodologia%20S&B/guidances/concepts/resources/im_uc.gif" alt="Girl in a jacket" width="500" height="600">
+#links sobre o assunto:
+-https://www.techtarget.com/
