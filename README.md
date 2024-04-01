@@ -32,7 +32,8 @@ Análise de Requisitos.
 ### 2º Parte
 ### Caso de uso (Use case)
 
-Um diagrama de caso de uso é usado para descrever graficamente um subconjunto do modelo para simplificar a comunicação. Normalmente existirão vários diagramas de caso de uso associados a um determinado modelo veja um exemplo de uma empresa
+Um diagrama de caso de uso é usado para descrever graficamente um subconjunto do modelo para simplificar a comunicação. Normalmente existirão vários diagramas de caso de uso associados a um determinado modelo veja um
+exemplo de uma empresa
 ![imagem](https://cdn1.gnarususercontent.com.br/1/1257530/085c4d5d-1cd7-4124-a458-018811300f48.png)
 
 Um caso de uso representa uma unidade discreta da interação entre um usuário (humano ou máquina) e o sistema.
