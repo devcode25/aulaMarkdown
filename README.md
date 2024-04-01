@@ -28,9 +28,17 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
    requisitos. Ignorar essa etapa pode levar a problemas sérios no projeto.
 
 **2**.**Tipos de Requisitos**
- 1. **Requisitos Funcionais**:
-    * Descrevem as funcionalidades específicas que o sistema deve fornecer.
-      * Exemplo: Para um sistema de e-commerce, "permitir que os usuários adicionem produtos ao carrinho de compras".
- 2. **Requisitos não Funcionais**
-    * Descrevem características do sistema não diretamente relacionadas às funcionalidades.
-      * Exemplo: Para o mesmo sistema de e-commerce, "o tempo de resposta do sistema deve ser inferior a 2 segundos durante o pico de tráfego".
+  1. **Requisitos Funcionais**:
+     * Descrevem as funcionalidades específicas que o sistema deve fornecer.
+       * Exemplo: Para um sistema de e-commerce, "permitir que os usuários adicionem produtos ao carrinho de compras".
+  2. **Requisitos não Funcionais**
+     * Descrevem características do sistema não diretamente relacionadas às funcionalidades.
+       * Exemplo: Para o mesmo sistema de e-commerce, "o tempo de resposta do sistema deve ser inferior a 2 segundos durante o pico de tráfego".
+        
+**3**.**Exemplos de Aplicação**
+      1.**Requisito Funcional:**
+        * Em um aplicativo de streaming de música, "permitir aos usuários criar playlists personalizadas".
+      2.**Requisito não Funcional:**
+        * Para o mesmo aplicativo, "a interface do usuário deve ser intuitiva e fácil de usar, mesmo para usuários novatos".
+
+ <img src="https://www.nkey.com.br/wp-content/uploads/2022/06/developing-programming-and-coding-technologies-wor-2022-02-03-01-11-56-utc-2-1030x687.jpg" width="508px"
