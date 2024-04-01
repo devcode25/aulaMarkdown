@@ -21,3 +21,28 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 <h1>ENGENHARIA DE REQUISITOS</h1>
 <h2>Conceito</h2>
 Uma lista de tarefas e análise que registra todo o processo da criação de um software, tendo como o objetivo gerenciar tudo desse processo.
+
+<h1>TIPOS DE REQUISISTOS</h1>
+
+<h2>REQUISITOS FUNCIONAIS</h2>
+Esse requisito é responsável pela funcionalidade do software. Um dos exemplos são:
+
+* Pagamento efetuado;
+* Pesquisa de itens;
+* Adicionar dados;
+* Solicitar atendimento.
+
+<h2>REQUISIROS NÃO FUNCIONAIS</h2>
+Sâo condições ou qualidades dos softwares que necessitam ser atendidas. Exemplo:
+
+* Tipo de sistema operacional;
+* Conexão;
+* Banco de dados
+* Sistemas que o software pode ser ultilizado.
+
+<h2>REQUISITOS DE DOMÍNIO</h2>
+Esse requisito descreve as características do sistema. Pode ser aplicado no requisito funcional ou ser uma restrinção de uma computação específica. Um exemplo disso pode ser:
+
+* Um cáuculo da média final de cada aluno dado pela fórmula:(Nota1 *2 + Nota2 *3)/5.
+
+  
