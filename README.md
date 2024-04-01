@@ -21,3 +21,6 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 
 ### oferece controles e padrões para que as exigências do projeto sejam claras, correspondam às suas finalidades e possam ser compreendidas por todos os responsáveis. 
 ![download](https://github.com/Guilhermerachide/aulaMarkdown/assets/164504192/bc462ddf-febd-48bc-ae6e-488f7cb2d6fc)
+
+
+[KasperSky](https://www.kaspersky.com.br/resource-center/definitions/what-is-social-engineering#:~:text=A%20engenharia%20social%20%C3%A9%20uma,dar%20acesso%20a%20sistemas%20restritos.)
