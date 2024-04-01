@@ -47,5 +47,10 @@ Sistema  | O sistema é o projeto, app ou site em discussão
 Atores   | Ator é o sistema, usúario ou praticalmente qualquer outra força externa levada em consideação que interaje com o sistema
 Objetivo dos atores   | O propósito dos atores, o objetivo de outro software entrando em contato com o sistewma ou a usagem do user.
 Cenário   | Também chamado de instância de caso, o Cenário é a sequência de acontecimentos entre o sistema e os atores.
-Use case  | oque faz
+Consider possíveis flows alternativos | Levar em contar que é possível diferentes resultados ao invés do que estava esperando, e se prevenir para os remediálos caso aconteçam.
+
+
+* Segue abaixo apps para se aprender mais sobre o assunto;https:
+ https://www.wrike.com/
+ https://querobolsa.com.br/
 
