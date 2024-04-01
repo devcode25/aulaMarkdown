@@ -30,3 +30,7 @@ O processo de engenharia de requisitos é composto por oito atividades de alto n
 6. **Revisão dos requisitos**
 7. *Colocação dos requisitos na linha de base.*
 Este processo deve ser precedido por estudos de viabilidade técnica que, a partir das restrições do projeto, determinam se este é ou não viável e se deve prosseguir para a identificação dos requisitos. Uma outra atividade que se pode considerar que faz também com parte deste processo, se incluirmos a fase posterior à produção do documento, é a gestão de mudança, sendo que as alterações podem ser causadas pelos mais diversos fatores desde inovações tecnológicas a mudanças na natureza do negócio, entre outras.
+**exemplo e imagens**
+![image](https://github.com/Erickdn/aulaMarkdown/assets/161900128/471dbd04-dc06-4209-8f92-5c72913d7ac3)
+![image](https://github.com/Erickdn/aulaMarkdown/assets/161900128/d0369c1b-56c0-4d9b-9020-6771121e38b2)
+![image](https://github.com/Erickdn/aulaMarkdown/assets/161900128/e68d6163-10a6-457c-8a75-bdedc15db4ab)
