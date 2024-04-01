@@ -18,3 +18,14 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 
 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
+
+ # Engenharias de requisitos # 
+
+A engenharia de requisitos oferece controles e padrões para que as exigências do projeto sejam claras, correspondam às suas finalidades e possam ser compreendidas por todos os responsáveis
+
+Um requisito funcional: È uma funcionalidade específica que o sistema deve ter, ou seja, uma ação que o sistema precisa ser capaz de realizar 
+
+Requisitos não funcionais são os requisitos relacionados ao uso da aplicação em termos de desempenho, usabilidade, confiabilidade, segurança, disponibilidade, manutenção e tecnologias envolvidas.
+
+<img src="https://giganteconsultoria.com.br/wp-content/uploads/2023/04/Functional-vs-Non-Functional-Requirements-1024x1024.png" alt="Girl in a jacket" width="500" height="600">
+
