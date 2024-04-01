@@ -41,4 +41,4 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
       2.**Requisito não Funcional:**
         * Para o mesmo aplicativo, "a interface do usuário deve ser intuitiva e fácil de usar, mesmo para usuários novatos".
 
- <img src="https://www.nkey.com.br/wp-content/uploads/2022/06/developing-programming-and-coding-technologies-wor-2022-02-03-01-11-56-utc-2-1030x687.jpg" width="508px"
+ <img src="https://www.nkey.com.br/wp-content/uploads/2022/06/developing-programming-and-coding-technologies-wor-2022-02-03-01-11-56-utc-2-1030x687.jpg" width="508px"> <img src="<img src="https://www.nkey.com.br/wp-content/uploads/2022/06/developing-programming-and-coding-technologies-wor-2022-02-03-01-11-56-utc-2-1030x687.jpg" width="508px">"
