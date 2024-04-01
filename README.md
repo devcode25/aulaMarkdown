@@ -14,7 +14,14 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 - Deverá inserir uma tabela comparativa, exemplicando o use case
 - Deverá inserir links para acessar sites de conteúdo sobre o assunto.
 
-<img src="https://www.patasdacasa.com.br/sites/default/files/styles/webp/public/noticias/2022/02/E-possivel-ver-um-cachorro-sorrindo-descubra-e-saiba-como-identificar.jpg.webp?itok=UYmPTLUx" alt="cachorro sorrindo" width="508px">
 
 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
+## O que é engenharia de requisitos? <h2>
+É uma área responsável por realizar o **levantamento, definição, documentação e manutenção dos requisitos necessários para que um software possa rodar sem maiores problemas.**
+## Quais são os tipos de requisitos e quais são as suas funções?
+São dois tipos de engenharia de requisitos, funcionais e não funcionais; funcionais são **o que o sistema deve fazer/funcionalidades do sistema** e não funcionais **diz como o sistema deve operar, ou seja, abrange aspectos de qualidade e desempenho, restrições e limitações, e aspectos técnicos.**
+
+![image](https://github.com/devcode25/aulaMarkdown/assets/164903959/5c87b160-8e98-4687-a746-5702bd4366e5) ![image](https://www.cedrotech.com/wp-content/uploads/2023/10/ciberseguranca-8-dicas-essenciais-de-seguranca-cibernetica-para-empresas.jpg). 
+
+|
