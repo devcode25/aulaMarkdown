@@ -18,18 +18,22 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
 
-# Engenharia de requisitos <h1>
-**Conceito Geral de Engenharia de Requisitos:**
+<img src="https://th.bing.com/th/id/OIP.B8FEuPxguG7GynLaCjwRDAHaCY?w=292&h=112&c=7&r=0&o=5&pid=1.7" alt="Imagem 1" width="150" p align="left">
+
+# <p align="center"> **Engenharia de Requisitos** 
+
+>**Conceito Geral de Engenharia de Requisitos:**
 
 Engenharia de Requisitos é o processo de identificação, análise, documentação e validação das necessidades dos usuários e stakeholders para um sistema de software. Ele estabelece a base para o desenvolvimento bem-sucedido de um sistema, garantindo que os requisitos do usuário sejam claramente compreendidos e traduzidos em especificações técnicas para os desenvolvedores.
 
-**Imagens Sobre Tal Conceito:**
+>**Imagens Sobre Tal Conceito:**
 <p align="center">
     <img src="https://th.bing.com/th/id/OIP.kblfOXcYRiWUDjdEnrV2oAHaFj?w=276&h=207&c=7&r=0&o=5&pid=1.7" alt="Imagem 1" width="300" height="200"/> 
     <img src="https://th.bing.com/th/id/OIP.Ci2vXlEVb2XEmL6vXNsqZwHaFj?w=262&h=196&c=7&r=0&o=5&pid=1.7"
 " alt="Imagem 2" width="300" height="200"/>
 </p>
 
+>**Lista de Requisitos:**
 
 Use Case [ UC ]  | DESCRIÇÃO
 --------- | ------
@@ -51,5 +55,6 @@ Por Exemplo:  | O tempo de resposta médio para uma consulta de banco de dados n
 Por Exemplo:  | Os dados dos clientes devem ser armazenados de forma criptografada no banco de dados.
 
 
+>**Link para mais Conteúdos:**
 
-<img src="" alt="cachorro sorrindo" width="508px">
+[_Clique aqui para mais Conteúdos_](https://querobolsa.com.br/revista/engenharia-de-requisitos)  
