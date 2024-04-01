@@ -15,5 +15,11 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 - Deverá inserir links para acessar sites de conteúdo sobre o assunto.
 
 
-## Vamos lá! Começe a atividade logo abaixo 👇👇👇
+## Vamos lá! Começe a atividade logo abaixo 👇
 
+
+## Engenharia de Requisitos
+
+### Conceito:
+
+É uma disciplina com finalidade de gerenciar os requisitos de sistema/software. É uma abordagem sistemática para elicitar, organizar e documentar os requisitos do sistema, para garantir completeza, consistência e relevância dos requisitos.
