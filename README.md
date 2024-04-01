@@ -18,4 +18,5 @@
 | O sistema deve permitir que os usuários realizem login. | O sistema deve ser compatível com os navegadores Chrome, Firefox e Safari. |
 | O sistema deve permitir que os usuários realizem pesquisas por palavras-chave. | O tempo de resposta do sistema deve ser inferior a 2 segundos. |
 | O sistema deve permitir que os usuários enviem mensagens para outros usuários. | O sistema deve ser capaz de lidar com 1000 usuários simultaneamente sem apresentar lentidão. |
+
 ![img](https://4.bp.blogspot.com/-jEyIVkoHMGQ/VAHod8bTrWI/AAAAAAAAIDI/Apz2T2hqe20/s1600/Engenharia%2Bde%2BRequisitos.jpg)
