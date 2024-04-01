@@ -23,6 +23,8 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 
 A engenharia de requisitos é o meio essencial para a obtenção de sucesso em um projeto, em que ele estabelece o que é necessário para o planejamento do projeto, sendo a sua base, guiando os desenvolvedores de acordo com o que deve ser feito, alinhados às necessidades dos usuários e suas demandas. 
 
+https://blog-static.infra.grancursosonline.com.br/wp-content/uploads/2020/03/10121622/inni.png
+
 ## **Tipos de requisitos**
 
 **Funcionais** 
