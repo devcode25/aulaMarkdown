@@ -22,12 +22,16 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 # Conceito 
 É uma disciplina com finalidade de gerenciar os requisitos de sistema/software. É uma abordagem sistemática para elicitar, organizar e documentar os requisitos do sistema, para garantir completeza, consistência e relevância dos requisitos.
 
+![imagem](https://arquivo.devmedia.com.br/artigos/Fabio_Gomes_Rocha/Engenharia_Requisitos/Engenharia_Requisitos_1.jpg)
+
 ## Tipos de requisitos
 Requisitos genéricos, que estabelecem, em linhas gerais, o que o sistema deve fazer. Um exemplo deve permitir que o cliente consiga fazer tudo o que for preciso para realizar negócios com a empresa.
 Requisitos funcionais, que definem partes de funcionalidades dos sistemas. Um exemplo de requisito funcional seria a funcionalidade Cadastrar Cliente.
 Requisitos de implementação, que dizem como o sistema deve ser implementado. Um exemplo desse requisito seria que o sistema deve ser desenvolvido na linguagem Java.
 Requisitos de performance, que especificam o mínimo aceitável para o desempenho do sistema. Um exemplo desse requisito seria que o sistema deve executar as suas transações com o tempo mínimo de um segundo.
 Requisitos de usabilidade, que demonstram como o sistema deve ser usado. Um exemplo desse requisito seria que o sistema deve executar as suas transações com o mínimo de cliques possível.
+
+![imagem](https://miro.medium.com/v2/resize:fit:720/format:webp/0*l2zBbRz8yG7cbtLB)
 
 ### Exemplos
 
@@ -37,11 +41,6 @@ UC-01        | Fazer login
 Uc-02        | Login Google
 Uc-03        | Login Facebook
 Uc-04        | Esqueceu a senha
-
-
-![imagem](https://www.google.com/url?sa=i&url=http%3A%2F%2Fmetodoiron.blogspot.com%2F2014%2F12%2Fteste-de-software-problemas-desafios-e.html&psig=AOvVaw0C4aDAqq6NXn3_Muu9ZTqT&ust=1712057159609000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCMjqf0oIUDFQAAAAAdAAAAABAa)
-
-![imagem](https://www.google.com/url?sa=i&url=http%3A%2F%2Fkessiamarchi.blogspot.com%2F2014%2F08%2Fengenharia-de-requisitos.html&psig=AOvVaw0C4aDAqq6NXn3_Muu9ZTqT&ust=1712057159609000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCMjqf0oIUDFQAAAAAdAAAAABBG)
 
 ## Links
 [clicando aqui](https://www.devmedia.com.br/introducao-a-engenharia-de-requisitos/8034)
