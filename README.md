@@ -18,3 +18,27 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 
 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
+<h1>Engenharia de Requisitos</h1>
+<img src="https://cdn-icons-png.flaticon.com/512/4370/4370758.png" "width="400px">
+<paragrafh>
+   <h1> Conceitos:</h1>
+</paragrafh>
+ 
+
+**Otimizando a Captura e Gestão de Requisitos: Estratégias Eficientes para Desenvolvimento de Software Do Conceito à Entrega**
+
+**Engenharia de Requisitos como Base para Desenvolvimento de Software de Sucesso**
+Há verios tipo de requisitos como por exemplo:
+
+1.Requisitos funcionais
+
+2.Requisitos não funcionais 
+
+3.Usabilidade 
+
+4. Desempenho
+
+5. segurança
+
+6. conformidade
+ **<h1>Exemplos</h1>**
