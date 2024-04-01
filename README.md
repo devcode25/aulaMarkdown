@@ -24,3 +24,18 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 ### conceito geral
 
  A engenharia de requisitos tem como conceioto genencia requsitos de sitemas ou software, é uma forma de organizar documentos  os requisitos do sistema, para completeza, consistência e relevância dos requisitos.
+
+## tipos 
+Elicitação de Requisitos: Coleta de informações sobre os requisitos do sistema.
+
+Análise de Requisitos: Organização, priorização e análise dos requisitos para entender suas inter-relações e impactos.
+
+Especificação de Requisitos: Documentação detalhada dos requisitos de forma compreensível para os stakeholders e a equipe de desenvolvimento.
+
+Validação de Requisitos: Verificação de que os requisitos atendem às necessidades e expectativas dos stakeholders.
+
+Gerenciamento de Requisitos: Gestão do processo de engenharia de requisitos, incluindo o rastreamento de mudanças e a resolução de conflitos.
+
+## imagens 
+
+<img scr"https://miro.medium.com/v2/resize:fit:1400/1*ZYH-QGU7tBWstwGGBvPY4A.png
