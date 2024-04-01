@@ -29,8 +29,9 @@ Requisitos Fucionais e não Fucionais
 
 ### Exemplos:
 
-![Engenharia_Requisitos_1](https://github.com/Davi8002/AulaMarkdown/assets/164496370/9460f8f8-32fb-4936-99ca-a6ab6e6c7d85)
+<img src="https://github.com/Davi8002/AulaMarkdown/assets/164496370/9460f8f8-32fb-4936-99ca-a6ab6e6c7d85" alt="Engenharia de requisitos exemplo" width="650px">
 
+### Tipos De Requisitos:
    Numero Da Uc | Nome | Função
 ---------------------|------|-------
 Uc 1                 | Nome1 | Função 1
