@@ -54,7 +54,7 @@ Requisito de Interface: Um sistema de automação residencial deve ser capaz de 
 
 Requisito de Usuário: Um aplicativo de fitness deve fornecer aos usuários feedback personalizado sobre seu progresso e metas de treinamento.
 
-
+![img](https://arquivo.devmedia.com.br/artigos/Fabio_Gomes_Rocha/Engenharia_Requisitos/Engenharia_Requisitos_1.jpg)
 
 
 
