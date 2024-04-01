@@ -40,4 +40,6 @@ A documentação de requisitos é revisada pelo cliente para garantir que todas 
 Durante o desenvolvimento do sistema, a equipe de engenharia de requisitos trabalha em estreita colaboração com os gerentes de projeto e a equipe de desenvolvimento para lidar com quaisquer mudanças nos requisitos, garantindo que sejam documentadas, avaliadas quanto ao impacto e implementadas conforme apropriado.
 
 Esse exemplo demonstra como a engenharia de requisitos é fundamental para o sucesso de um projeto de software, garantindo que o produto final atenda às necessidades e expectativas do cliente.
+
+
 !![image](https://github.com/Feefbolas/aulaMarkdown/assets/164874979/e8aabc72-5427-43bc-9e4c-8f6bf1243449)
