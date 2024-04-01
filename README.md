@@ -9,7 +9,7 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 #### Sobre a atividade, você deverá considerar o seguinte assunto:
 
 - A pesquisa descritiva será sobre Engenharia de Requisitos
-- Destaque o conceito geral, tipos de requisitos e considerer exemplos
+- Destaque o conceito geral, tipos de requisitos e considere exemplos
 - Deverá conter no mínimo 2 imagens
 - Deverá inserir uma tabela comparativa, exemplicando o use case
 - Deverá inserir links para acessar sites de conteúdo sobre o assunto.
@@ -26,3 +26,6 @@ tipos de requisitos: Extração de Requisitos = descobrimento (elicit, em inglê
 Análise e Negociação de Requisitos = requisitos acordados;
 Validação de Requisitos = consistentes, completos, precisos;
 Gerenciamento de Mudança de Requisitos;
+
+!(https://i.ytimg.com/vi/QK_0GppsvZ4/maxresdefault.jpg)
+!(https://www.devmedia.com.br/imagens/engsoft/artigo6/image05.jpg)
