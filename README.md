@@ -84,3 +84,14 @@ Consiste em acompanhar o requisito em ambas direções, ou seja, partindo de um 
 * Modificabilidade;
 
 Para saber de maneira detalhada, basta clicar [nesse link aqui](https://www.devmedia.com.br/introducao-a-engenharia-de-requisitos/8034)
+
+<h1>FLUXOGRAMA</h1>
+COnsiste em uma maneira de organização dos requisitos funcionais. Funciona como um passo a passo de cada botão que o usuário clica. Como se fosse uma receita.
+inserir a imagem do fluxograma e da legenda do fluxograma
+ <h1>CASO DE USO OU UC</h1>
+ Consiste em explicar cada botão da interface. Vamos usar como exemplo uma lâmpada que acende em contato com o a assistente pessoal.
+ 
+ UC   |     NOME DA UC         |           DESCRIÇÂO DA UC                              |
+ :----|------------------------|--------------------------------------------------------|
+ UC-1 | Configuração do wi-fi  | ser conecta o QR Code da lâmpada conectando com o wi-fi|
+ UC-2 | Login bluetooth        | User conecta a lâmpada com a assistênte virtual        |
