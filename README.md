@@ -31,7 +31,7 @@ Gerenciamento de Mudança de Requisitos;
 ![engenharia de requisitos](https://i.ytimg.com/vi/QK_0GppsvZ4/maxresdefault.jpg)
 
 ## tabela comparativa, exemplicando o use case: 
-![engenharia de requisitos](https://miro.medium.com/v2/resize:fit:1400/1*ZYH-QGU7tBWstwGGBvPY4A.png)
+
 
 ## links sobre o conteúdo abordado:
 https://www.devmedia.com.br/introducao-a-engenharia-de-requisitos/8034
