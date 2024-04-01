@@ -17,7 +17,10 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
 
+# ENGENHARIA DE REQUISITOS
+
+![inni](https://arquivo.devmedia.com.br/artigos/Fabio_Gomes_Rocha/Engenharia_Requisitos/Engenharia_Requisitos_1.jpg)
+
 A engenharia de requisitos oferece controles e padrões para que as exigências do projeto sejam claras, cumpram com suas finalidades e sejam compreendidas por todos os envolvidos. Isso garante a qualidade do software, além de mais eficiência nas etapas de desenvolvimento, operação e manutenção
 
-# Engenharia de Requisitos
 ![inni](https://github.com/MiguelLira87/aulaMarkdown/assets/164503822/0db3eb63-ec6c-4ec9-b9be-35589ef093d4)
