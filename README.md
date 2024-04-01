@@ -39,3 +39,13 @@ Requisitos não funcionais já são menos notáveis que os funcioansi, porem de 
 
 Requisitos subconscientes são as práticas esperadas para qualquer tipo de softare, práticas esperadas automaticamehnte e de conhecimento comum, as que todos os tipos de pessoas já esperam que sejam de bom senso ter em um software. Como por exemplo uma interface fluida e facil de entender.
  
+![REQUISITOS](https://github.com/Netuno456/aulaMarkdown/blob/main/Requisitos+de+dom%C3%ADnio+O+dom%C3%ADnio+operacional+do+sistema+imp%C3%B5e+requisitos+ao+sistema..jpg?raw=true)
+
+Use case | propósito
+-------- | --------
+Sistema  | O sistema é o projeto, app ou site em discussão
+Atores   | Ator é o sistema, usúario ou praticalmente qualquer outra força externa levada em consideação que interaje com o sistema
+Objetivo dos atores   | O propósito dos atores, o objetivo de outro software entrando em contato com o sistewma ou a usagem do user.
+Cenário   | Também chamado de instância de caso, o Cenário é a sequência de acontecimentos entre o sistema e os atores.
+Use case  | oque faz
+
