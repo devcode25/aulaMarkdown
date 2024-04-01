@@ -18,3 +18,17 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 
 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
+
+# Atividade AV1 D.S
+
+## **Engenharia de Requisitos**
+
+1.**Conceito geral de Engenharia de requisitos**
+ * A Engenharia de Requisitos é uma disciplina crucial no desenvolvimento de software e sistemas. Envolve entender, documentar e gerenciar as necessidades dos usuários e stakeholders. Isso inclui atividades como elicitação, análise, documentação, validação e gestão de 
+   requisitos. Ignorar essa etapa pode levar a problemas sérios no projeto.
+
+2.**Tipos de Requisitos**
+ 1. **Requisitos Funcionais**:
+    * Descrevem as funcionalidades específicas que o sistema deve fornecer.
+      * Exemplo: Para um sistema de e-commerce, "permitir que os usuários adicionem produtos ao carrinho de compras".
+ 2. **Requisitos não Funcionais
