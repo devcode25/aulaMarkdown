@@ -18,7 +18,7 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
 
-<img src="https://th.bing.com/th/id/OIP.B8FEuPxguG7GynLaCjwRDAHaCY?w=292&h=112&c=7&r=0&o=5&pid=1.7" alt="Imagem 1" width="150" p align="left">
+<img src="https://i0.wp.com/www.rr.senac.br/portalsenac/wp-content/uploads/2021/11/logo-senac.png?fit=1247%2C508&ssl=1" alt="Imagem 1" width="150" p align="left">
 
 # <p align="center"> **Engenharia de Requisitos** 
 
