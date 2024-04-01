@@ -23,21 +23,33 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 
 Engenharia de Requisitos é o processo de identificação, análise, documentação e validação das necessidades dos usuários e stakeholders para um sistema de software. Ele estabelece a base para o desenvolvimento bem-sucedido de um sistema, garantindo que os requisitos do usuário sejam claramente compreendidos e traduzidos em especificações técnicas para os desenvolvedores.
 
- **Tipos de Requisitos em Engenharia de Requisitos:**
-UC'S E EXEMPLOS   | DESCRIÇÃO
---------- | ------
-Requisitos de Negócio | Definem as necessidades gerais da organização que impulsionam o desenvolvimento do sistema.
-Exemplo: | "Aumentar as vendas online em 20% até o final do ano."
-Requisitos de Usuário | Descrevem as necessidades e expectativas dos usuários finais do sistema.
-Exemplo: | "Os usuários devem poder fazer compras online usando cartão de crédito."
-Requisitos Funcionais: | Especificam as funcionalidades específicas que o sistema deve fornecer.
-Exemplo | "O sistema deve permitir aos usuários adicionar itens ao carrinho de compras."
-Requisitos Não Funcionais | Definem atributos de qualidade do sistema, como desempenho, segurança e usabilidade.
+**Imagens Sobre Tal Conceito:**
+<p align="center">
+    <img src="https://th.bing.com/th/id/OIP.kblfOXcYRiWUDjdEnrV2oAHaFj?w=276&h=207&c=7&r=0&o=5&pid=1.7" alt="Imagem 1" width="300" height="200"/> 
+    <img src="https://th.bing.com/th/id/OIP.Ci2vXlEVb2XEmL6vXNsqZwHaFj?w=262&h=196&c=7&r=0&o=5&pid=1.7"
+" alt="Imagem 2" width="300" height="200"/>
+</p>
 
-REQUISITOS  | DESCRIÇÃO
+
+Use Case [ UC ]  | DESCRIÇÃO
 --------- | ------
-Requisitos Funcionais: | Especificam as funcionalidades específicas que o sistema deve fornecer.
-Exemplo: "O sistema deve permitir aos usuários adicionar itens ao carrinho de compras."
-Requisitos Não Funcionais | Definem atributos de qualidade do sistema, como desempenho, segurança e usabilidade.
-Exemplo: | "O sistema deve ser capaz de suportar 1000 usuários simultâneos sem degradação significativa de desempenho."
+**Requisitos de Negócio:** | Definem as necessidades gerais da organização que impulsionam o desenvolvimento do sistema.
+ Por Exemplo: | Aumentar as vendas online em 20% até o final do ano.
+**Requisitos de Usuário:** | Descrevem as necessidades e expectativas dos usuários finais do sistema.
+Por Exemplo: | Os usuários devem poder fazer compras online usando cartão de crédito.
+**Requisitos Funcionais:** | Especificam as funcionalidades específicas que o sistema deve fornecer.
+Por Exemplo: | O sistema deve permitir aos usuários adicionar itens ao carrinho de compras.
+**Requisitos Não Funcionais** | Definem atributos de qualidade do sistema, como desempenho, segurança e usabilidade.
+Por Exemplo:  | O sistema deve ser capaz de suportar 1000 usuários simultâneos sem degradação significativa de desempenho.
+**Requisitos de Interface do Usuário (UI):**  | Descrevem como os usuários interagem com o sistema por meio da interface gráfica.
+Por Exemplo:  | O botão 'Comprar' deve ser claramente visível e acessível na página de produtos.
+**Requisitos de Sistema:**  | Especificam as necessidades do sistema em termos de hardware, software e integrações.
+Por Exemplo:  | O sistema deve ser executado em servidores Linux com pelo menos 8 GB de RAM.
+**Requisitos de Desempenho:**  | Estabelecem critérios de desempenho que o sistema deve atender.
+Por Exemplo:  | O tempo de resposta médio para uma consulta de banco de dados não deve exceder 1 segundo.
+**Requisitos de Segurança:**  | Definem medidas de segurança necessárias para proteger o sistema contra ameaças.
+Por Exemplo:  | Os dados dos clientes devem ser armazenados de forma criptografada no banco de dados.
+
+
+
 <img src="" alt="cachorro sorrindo" width="508px">
