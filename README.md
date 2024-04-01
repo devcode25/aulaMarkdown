@@ -18,16 +18,20 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
 ### 1º Parte
 A engenharia de requisitos é um processo que engloba todas as atividades que contribuem para a produção de um documento de requisitos e sua manutenção ao longo do tempo.
-### Conceito: É uma disciplina com finalidade de gerenciar os requisitos de sistema/software
- ### Seus principais requisitos são os funcionais e os não funcionais porém também existem 
-Requisitos de domínio.
-Requisitos subconscientes.
-Requisitos conscientes.
-Requisitos inconscientes.
-Levantamento dos Requisitos.
-Análise de Requisitos.
 
+### Conceito: É uma disciplina com finalidade de gerenciar os requisitos de sistema/software
 ![imagem](https://blog-static.infra.grancursosonline.com.br/wp-content/uploads/2020/03/10121622/inni.png)
+
+ 
+ ### Seus principais requisitos são os funcionais e os não funcionais
+ 
+![imagem](https://dhg1h5j42swfq.cloudfront.net/2023/10/16115710/imagem-inicial-1.png)
+ 
+  
+  Requisitos Funcionais é uma funcionalidade específica que o sistema deve ter, ou seja, uma ação que o sistema precisa ser capaz de realizar. 
+ 
+ Um requisito não funcional refere-se a características ou qualidades do sistema, como desempenho, segurança, facilidade de uso, confiabilidade, e assim por diante.
+
 
 ### 2º Parte
 ### Caso de uso (Use case)
@@ -35,7 +39,7 @@ Análise de Requisitos.
 Um diagrama de caso de uso é usado para descrever graficamente um subconjunto do modelo para simplificar a comunicação. Normalmente existirão vários diagramas de caso de uso associados a um determinado modelo veja um
 exemplo de uma empresa
 ![imagem](https://cdn1.gnarususercontent.com.br/1/1257530/085c4d5d-1cd7-4124-a458-018811300f48.png)
-
+![imagem](https://slideplayer.com.br/slide/1669103/6/images/16/DIAGRAMA+DE+CASO+DE+USO+Casos+de+Uso+-+DOCUMENTA%C3%87%C3%83O%3A.jpg)
 Um caso de uso representa uma unidade discreta da interação entre um usuário (humano ou máquina) e o sistema.
 
 #### LINKS DE SEU INTERESSE
