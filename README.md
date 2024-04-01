@@ -46,3 +46,41 @@ Esse requisito descreve as características do sistema. Pode ser aplicado no req
 * Um cáuculo da média final de cada aluno dado pela fórmula:(Nota1 *2 + Nota2 *3)/5.
 
   
+<h1>PRODUÇÃO DE REIQUISITOS</h1>
+Um planejamento do software criado apartir de representações. Porém, isso necessita de diversas etapas, elas são:
+
+<h2>LEVANTAMENTO</h2>
+Trabalham com a obtenção dos requisitos, para isso, é necessário descobrir através de entrevistas os problemas que o software deve solucionar, o desempenho, hardware, etc.
+
+<h2>REGISTROS</h2>
+Esse processo consiste em documentar os requisitos obtidos no levantamento para ajudar no processo de desenvolvimento do software.
+
+<h2>VERIFICAÇÃO</h2>
+Essa etapa consiste em assegurar os requisitos definidos, ou seja, verificar se os requisitos cumprem com a resolução do problema e os objetivos que o software estabelece. Caso ao contrário, essa etapa deve corrigir as seguintes falhas para que no uso não haja dificuldades.
+
+<h2>Validação</h2>
+Essa fase consiste na aprovação do cliente sobre o uso do software.
+
+<h2>GERÊNCIA DE REQUISITOS</h2>
+Essa fase consiste em administrar a mudança dos requisitos, pois a equipe ou empresa pode acabar mudando as ideias e gerando uma bagunça, para evitar, é necessário analisar os requisitos ao longo do processo e junto com prazos para estabelecer uma estética fixa.
+
+<h2>CONTROLE DE MUDANÇAS</h2>
+Consiste em basicamente no preparo da base e do planejamento, permitindo diferenciar o introduzido.
+
+<h2>GERÊNCIA DA CONFIGURAÇÃO</h2>
+Define critérios que permitem realizar certas modificações.
+
+<h2>RASTREABILIDADE</h2>
+Consiste em acompanhar o requisito em ambas direções, ou seja, partindo de um requisito para um projeto ou vice versa.
+
+<h2>GERÊNCIA DE QUALIDADE DE REQUISITOS</h2>
+É necessário analizar a:
+
+* Correção;
+* Não ambiguidade;
+* Completude;
+* Consistência;
+* Verificabilidade;
+* Modificabilidade;
+
+Para saber de maneira detalhada, basta clicar [nesse link aqui](https://www.devmedia.com.br/introducao-a-engenharia-de-requisitos/8034)
