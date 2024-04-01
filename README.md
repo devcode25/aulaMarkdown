@@ -28,7 +28,8 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 **Otimizando a Captura e Gestão de Requisitos: Estratégias Eficientes para Desenvolvimento de Software Do Conceito à Entrega**
 
 **Engenharia de Requisitos como Base para Desenvolvimento de Software de Sucesso**
-Há verios tipo de requisitos como por exemplo:
+
+**Há vários tipos de requisitos como :**
 
 1.Requisitos funcionais
 
