@@ -14,7 +14,19 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 - Deverá inserir uma tabela comparativa, exemplicando o use case
 - Deverá inserir links para acessar sites de conteúdo sobre o assunto.
 
-<img src="https://www.patasdacasa.com.br/sites/default/files/styles/webp/public/noticias/2022/02/E-possivel-ver-um-cachorro-sorrindo-descubra-e-saiba-como-identificar.jpg.webp?itok=UYmPTLUx" alt="cachorro sorrindo" width="508px">
+<img src=">
 
 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
+
+## Pesquisa de Engenharia de Requisitos
+_A engenharia de requisitos é um processo que engloba todas as atividades que contribuem para a produção de um documento de requisitos e sua manutenção ao longo do tempo._
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-j-XHGxAVY4tLfmdOkjG10GRy3x9q3gUkRBOFiPyG73h78t93wmcdrVN1cnZdxD4sXZc&usqp=CAU"> 
+
+**Conceito Geral**  
+
+A engenharia de requisitos, é uma disciplina que tem como objetivo gerenciar com facilidade os softwers, e a abordagem de organizar-los, com a garantia de está tudo certo e completo
+
+**tipos de requisitos**
+
+Na engeraria de requisitos, tem 7 tipos de requisitos: Concepção, elicitação, elaboração, negociação, especificação, validação e gerenciamento
