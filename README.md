@@ -24,3 +24,13 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 A engenharia de requisitos oferece controles e padrões para que as exigências do projeto sejam claras, cumpram com suas finalidades e sejam compreendidas por todos os envolvidos. Isso garante a qualidade do software, além de mais eficiência nas etapas de desenvolvimento, operação e manutenção
 
 ![inni](https://github.com/MiguelLira87/aulaMarkdown/assets/164503822/0db3eb63-ec6c-4ec9-b9be-35589ef093d4)
+
+[SAIBA MAIS](https://www.devmedia.com.br/engenharia-de-requisitos-introducao-e-certificacao/28058)
+
+
+
+COMPONENTES   | SERVE PARA QUE
+--------- | ------
+SISTEMA | O QUE O APLICATIVO FAZ, EXEMPLO: APLICATIVO DA LOJA DE ROUPAS
+ATORES | REPRESENTAR O QUE CADA COISA FAZ
+CENÁRIO | SERVE PARA REPRESENTAR A INTERAÇÃO DOS USUARIOS COM O SISTEMA
