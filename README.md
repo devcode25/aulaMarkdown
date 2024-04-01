@@ -16,3 +16,11 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 
 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
+
+# Engearia de requisitos
+
+ aborda os processos, técnicas e práticas envolvidas na coleta, análise e documentação de requisitos de software. Seria importante explorar aspectos como gerenciamento de requisitos, qualidade, desafios e tendências emergentes. O objetivo seria oferecer uma visão abrangente do tema, utilizando dados qualitativos e quantitativos para entender seu impacto nos resultados do projeto
+
+### conceito geral
+
+ A engenharia de requisitos tem como conceioto genencia requsitos de sitemas ou software, é uma forma de organizar documentos  os requisitos do sistema, para completeza, consistência e relevância dos requisitos.
