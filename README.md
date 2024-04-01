@@ -18,3 +18,14 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 
 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
+
+# Atividade de engenharia de requisitos <h1>
+Engenharia de requisistos e uma forma de difinir as funções funcionais e não funcionais de um projeto. Temos varios tipos, como requisitos funcionais, requisitos não funcionais, dentre outros
+![image](https://github.com/Mg222324/aulaMarkdown/assets/164897264/3e26b476-5230-4281-97c8-b3dd31b4a94e)
+
+Tipo do requisito   | Função
+--------- | ------
+Requisitos Funcionais | Funcionalidade especifica
+Requisitos não funcionais| Foco em desempenho e segunraçã
+Requisitos de domínio | Caracteristicas do sistema
+Levantamento | Descobrimento dos problemas a serem resolvidos
