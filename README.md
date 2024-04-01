@@ -24,6 +24,18 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
  É importante o projeto passar por cada fase de sua avaliação; análise dos requisitos, verificação dos requisitos e a validação do resultado final.
 
 ![engenho](https://github.com/Netuno456/aulaMarkdown/blob/main/engenho.jpg?raw=true)
-                                             
-                                             
+
+Na engenharia de requisitos são exgigidas diversas formas  de práticas diferentes, diferentes tipos. Alguns são;
+
+* Requisitos funcionais e não funcionais
+
+Requisitos funcionais são, por exemplo, mecânicas que são mais relacionadas com a usabilidade do site ou app para o usúario. Por exemplo se em um app de compras ele consegue adicionar cupons com facilidade.
+
+Requisitos não funcionais já são menos notáveis que os funcioansi, porem de mesma ou até mais importância para o usúario. Ligados com como o app funciona, a criptografia dele... Um exemplo é se o app não demora para processar comandos.
+
+* Requisitos de domínio e subconscientes
+
+ Requisitos de domínio são regras e práticas usualmente utilizadas no tipo de software sendo feita, práticas popularizadas e praticadas com frequência, por exemplo um aplicativo de contabilidade aderir de padrões contábeis internacionais específicos.
+
+Requisitos subconscientes são as práticas esperadas para qualquer tipo de softare, práticas esperadas automaticamehnte e de conhecimento comum, as que todos os tipos de pessoas já esperam que sejam de bom senso ter em um software. Como por exemplo uma interface fluida e facil de entender.
  
