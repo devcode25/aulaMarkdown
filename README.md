@@ -9,7 +9,7 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 #### Sobre a atividade, você deverá considerar o seguinte assunto:
 
 - A pesquisa descritiva será sobre **Engenharia de Requisitos**
-- Destaque o **_conceito geral_**, tipos de requisitos e considerer exemplos
+- Destaque o **_conceito geral_**, tipos de requisitos e considerar exemplos
 - Deverá conter no mínimo 2 imagens
 - Deverá inserir uma tabela comparativa, exemplicando o use case
 - Deverá inserir links para acessar sites de conteúdo sobre o assunto.
@@ -18,3 +18,14 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 
 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
+
+## **O que é Engenharia de Requisitos?**
+
+A engenharia de requisitos é o meio essencial para a obtenção de sucesso em um projeto, em que ele estabelece o que é necessário para o planejamento do projeto, sendo a sua base, guiando os desenvolvedores de acordo com o que deve ser feito, alinhados às necessidades dos usuários e suas demandas. 
+
+## **Tipos de requisitos**
+
+**Funcionais** 
+
+Se referem ao objetivo do sistema, o que ele deve fazer, ou seja, suas funções. 
+Ex.: 
