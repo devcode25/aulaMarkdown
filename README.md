@@ -22,3 +22,5 @@ UC 01 | Login e-mail  | Leva o usuário para a tela de login com o e-mail
 uc 02 | Login Google   | Leva o usuário para a tela de login com a conta do Google
 uc 03 | Login Facebook   | Leva o usuário para a tela de login com a conta do Facebook
 uc 04 | Criar uma conta  | Leva o usuário para a tela de criar um conta com alguma dessas três opções
+
+http://www.deinf.ufma.br/~portela/er_03.pdf
