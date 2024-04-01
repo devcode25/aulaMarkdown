@@ -43,3 +43,6 @@ Esse exemplo demonstra como a engenharia de requisitos é fundamental para o suc
 
 
 !![image](https://github.com/Feefbolas/aulaMarkdown/assets/164874979/e8aabc72-5427-43bc-9e4c-8f6bf1243449)
+
+
+!![image](https://github.com/Feefbolas/aulaMarkdown/assets/164874979/4a5a0d01-2ee5-4853-a65c-58b8d6b0f3cc)
