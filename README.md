@@ -16,3 +16,10 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 
 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
+
+# engenharia de requisitos
+# conceitos:
+A engenharia de requisitos oferece controles e padrões para que as exigências do projeto sejam claras, correspondam às suas finalidades e possam ser compreendidas por todos os responsáveis. Isso garante a qualidade do software, além de mais produtividade em suas etapas de desenvolvimento, operação e manutenção.
+# Introdução a Requisitos de Softwaer
+Existem dois tipos de classificação de requisitos, são eles: Requisitos Funcionais (RF) e Requisitos Não-Funcionais (RNF).
+!https://felipelirarocha.files.wordpress.com/2012/03/waterfall.png
