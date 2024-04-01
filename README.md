@@ -87,7 +87,11 @@ Para saber de maneira detalhada, basta clicar [nesse link aqui](https://www.devm
 
 <h1>FLUXOGRAMA</h1>
 COnsiste em uma maneira de organização dos requisitos funcionais. Funciona como um passo a passo de cada botão que o usuário clica. Como se fosse uma receita.
-inserir a imagem do fluxograma e da legenda do fluxograma
+
+![imagem](https://qualyteam.com/pb/wp-content/uploads/2015/07/4.jpg)
+
+<img src="https://github.com/bomdiaaa/aulaMarkdown/assets/164504394/f44febbe-1b2d-4b13-ad85-08477c3a5ca5" alt="imagem" width="900">
+ 
  <h1>CASO DE USO OU UC</h1>
  Consiste em explicar cada botão da interface. Vamos usar como exemplo uma lâmpada que acende em contato com o a assistente pessoal.
  
