@@ -27,5 +27,13 @@ Análise e Negociação de Requisitos = requisitos acordados;
 Validação de Requisitos = consistentes, completos, precisos;
 Gerenciamento de Mudança de Requisitos;
 
-!(https://i.ytimg.com/vi/QK_0GppsvZ4/maxresdefault.jpg)
-!(https://www.devmedia.com.br/imagens/engsoft/artigo6/image05.jpg)
+![engenharia de requisitos](https://www.devmedia.com.br/imagens/engsoft/artigo6/image05.jpg)
+![engenharia de requisitos](https://i.ytimg.com/vi/QK_0GppsvZ4/maxresdefault.jpg)
+
+## tabela comparativa, exemplicando o use case: 
+![engenharia de requisitos](https://miro.medium.com/v2/resize:fit:1400/1*ZYH-QGU7tBWstwGGBvPY4A.png)
+
+#### links sobre o conteúdo abordado 
+https://www.devmedia.com.br/introducao-a-engenharia-de-requisitos/8034
+https://querobolsa.com.br/revista/engenharia-de-requisitos
+https://vemprapuc.pucminas.br/engenharia-de-requisitos
