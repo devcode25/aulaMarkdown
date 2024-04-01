@@ -39,5 +39,6 @@ Um caso de uso representa uma unidade discreta da interação entre um usuário 
 
 #### LINKS DE SEU INTERESSE
 [clique aqui para saber engenharia de requisitos](https://www.devmedia.com.br/introducao-a-engenharia-de-requisitos/8034)
+
 [clique aqui para saber sobre caso de uso](https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml)
 
