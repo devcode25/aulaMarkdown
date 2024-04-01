@@ -51,6 +51,8 @@ Consider possíveis flows alternativos | Levar em contar que é possível difere
 
 
 * Segue abaixo apps para se aprender mais sobre o assunto;https:
- https://www.wrike.com/
- https://querobolsa.com.br/
+ 
+https://www.wrike.com/
+ 
+https://querobolsa.com.br/
 
