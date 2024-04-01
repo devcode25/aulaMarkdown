@@ -28,8 +28,9 @@ A engenharia de requisitos é o meio essencial para a obtenção de sucesso em u
 **Funcionais** 
 
 Se referem ao objetivo do sistema, o que ele deve fazer, ou seja, suas funções. 
-Ex.: <img src="
+Ex.: https://github.com/shayalmeidaa/aulaMarkdown/blob/main/WhatsApp%20Image%202024-04-01%20at%2012.17.07.jpeg?raw=true
 
 **Não-funcionais** 
 
-Se trata
+Se trata da qualidade do software, isto é, o desempenho do sistema, sua segurança, usabilidade, etc. 
+Ex.: 
