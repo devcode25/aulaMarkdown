@@ -38,4 +38,16 @@ Gerenciamento de Requisitos: Gestão do processo de engenharia de requisitos, in
 
 ## imagens 
 
-<img scr"https://miro.medium.com/v2/resize:fit:1400/1*ZYH-QGU7tBWstwGGBvPY4A.png
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMop2fLLGa0OOcJ4vWD4NfsS_ppJLFtwBf6Bac93HmuA&s" width="500px">
+
+
+<img src="https://slideplayer.com.br/slide/5622605/2/images/3/O+Processo+da+Engenharia+de+Requisitos.jpg" width="500px">
+
+![image](https://github.com/arthurmfl/aulaMarkdown/assets/165023300/7f52f22b-65aa-450d-a35c-a8ef64c8bf8d)
+
+## licks
+
+https://www.onlinesistemas.net
+
+
+https://querobolsa.com.br/cursos-e-faculdades/engenharia-de-sistemas
