@@ -18,3 +18,12 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 
 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
+# Pesquisa engenharia de requisitos
+**Engenharia de Requisitos**: _É uma disciplina com finalidade de gerenciar os requisitos de sistema/software. É uma abordagem sistemática para elicitar, organizar e documentar os requisitos do sistema, para garantir completeza, consistência e relevância dos requisitos_
+![Tecnologia esta em tudo]https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSARYMOStmPfLBpEJ9Y46NHHkaLlPDirZaXFQ&usqp=CAU
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSARYMOStmPfLBpEJ9Y46NHHkaLlPDirZaXFQ&usqp=CAU" alt="Tecnologia esta em tudo" width="508px">
+<img src="https://mercadoonlinedigital.com/wp-content/uploads/2023/10/engenharia-de-requisitos-resumo.jpg" alt="Criaçao de sofwtwares e codigos" width="508px">
+
+
+
+
