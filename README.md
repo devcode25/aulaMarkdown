@@ -18,3 +18,12 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 
 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
+
+##  Engenharia de Requisitos ##
+
+A engenharia de requisitos oferece controles e padrões para que as exigências do projeto sejam claras, correspondam às suas finalidades e possam ser compreendidas por todos os responsáveis. Isso garante a qualidade do software, além de mais produtividade em suas etapas de desenvolvimento, operação e manutenção.
+
+<img src="https://lirp.cdn-website.com/f5758c3b/dms3rep/multi/opt/Fundoo+site-1920w.jpeg" alt="Engenaria de Requisito" width="508px">
+
+<img src="https://blog.casadodesenvolvedor.com.br/wp-content/uploads/2023/02/post171-desenvolvimento-requisitos-funcionais-nao-funcionais.png" alt="Engenaria de Requisito" width="508px">
+
