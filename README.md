@@ -22,14 +22,12 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 ### Conceito Geral:
 Engenharia de requisitos e um processo que utiliza de diversas ferramentas como fluxogramas para documentar e registar os requisitos de algo 
 
-![Fluxograma exemplo](https://github.com/Davi8002/AulaMarkdown/assets/164496370/147ff8d9-b0a2-4136-b3f8-028a21b8e291)
+<img src="https://github.com/Davi8002/AulaMarkdown/assets/164496370/27db0cc0-10b7-43f8-805f-d7d36abdbf42" alt="Fluxograma exemplo" width="500px">
 
 ### Tipos De Requisitos:
 Requisitos Fucionais e não Fucionais 
 
 ### Exemplos:
-
-
 
 ![Engenharia_Requisitos_1](https://github.com/Davi8002/AulaMarkdown/assets/164496370/9460f8f8-32fb-4936-99ca-a6ab6e6c7d85)
 
