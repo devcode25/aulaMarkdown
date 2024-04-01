@@ -1,4 +1,5 @@
-![image](https://github.com/PedrodeMeloTorres/aulaMarkdown/assets/164503681/66957a0d-1e45-41c6-93bc-c498d741601d)# Aula prática - Markdown
+
+# Aula prática - Markdown
 
 Este repositório servirá de base para você praticar a estrutura de texto markdown. 
 
@@ -18,5 +19,19 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 
 
 # Trabalho Engenharia de Requisitos <h1>
-É uma disciplina com finalidade de gerenciar os requisitos de sistema/software,é a lista de tarefas e a análises que geram uma documentação de todos os processos necessários para a produção de um programa
-![Engenharia de requisitos](https://www.google.com/imgres?q=engenharia%20de%20requisitos&imgurl=x-raw-image%3A%2F%2F%2F8eaf34fb3a41200456c3347ba5be06d89183182c0dc8002e6ae4f9c4fe2a3e98&imgrefurl=https%3A%2F%2Fwww.mestresdaweb.com.br%2Ftecnologias%2Frequisitos-funcionais-e-nao-funcionais-o-que-sao&docid=jtTPOEwgVddZGM&tbnid=BCBBOvs0r44QoM&vet=12ahUKEwjUwq2965GFAxUoEFkFHWh_Do4QM3oFCIEBEAA..i&w=795&h=436&hcb=2&ved=2ahUKEwjUwq2965GFAxUoEFkFHWh_Do4QM3oFCIEBEAA)
+É uma disciplina com finalidade de gerenciar os requisitos de sistema/software,é a lista de tarefas e a análises que geram uma documentação de todos os processos necessários para a produção de um programa,
+a engenharia de requisitos oferece controles e padrões para que as exigências do projeto sejam claras, correspondam às suas finalidades e possam ser compreendidas por todos os responsáveis.
+![inni](https://github.com/PedrodeMeloTorres/aulaMarkdown/assets/164503681/e7831ba0-a6e9-42f5-9f84-7c76e4e00af9)
+
+[Saiba Mais](https://www.monitoratec.com.br/blog/servico-de-engenharia-de-requisitos/#:~:text=A%20engenharia%20de%20requisitos%20oferece,de%20desenvolvimento%2C%20opera%C3%A7%C3%A3o%20e%20manuten%C3%A7%C3%A3o.)
+
+## USE CASE
+
+Exemplo   | Valor do exemplo
+--------- | ------
+Sistema | é o produto, serviço ou software. Exemplo: aplicativo de comida delivery.
+Atores | é tudo aquilo que interage diretamente com o sistema, podendo ser pessoas, outros sistemas ou até o tempo.
+Pessoas  | são clientes, funcionários, técnicos, instaladores ou gerentes do sistema.
+Tempo  | são iniciadores baseados em tempo ou acionadores de atividade de processamento para o sistema.
+
+![software_quality-use_case_methodology-f_mobile](https://github.com/PedrodeMeloTorres/aulaMarkdown/assets/164503681/6e2eb84f-1966-4d40-9fc2-92e6d06f656b)
