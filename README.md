@@ -18,5 +18,10 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 
 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
-#_Engenharia de requisitos_
+# Engenharia de requisitos
+-  A engenharia de requisitos oferece controles e padrões para que as exigências do projeto sejam claras, correspondam às suas finalidades e possam ser compreendidas por todos os responsáveis. Isso garante a qualidade do software, além de mais produtividade em suas etapas de desenvolvimento, operação e manutenção.
+  ### Tipos de requisitos
+  - **requisitos funcionais** um requisito funcional é uma funcionalidade específica que o sistema deve ter, ou seja, uma ação que o sistema precisa ser capaz de realizar.
+  - **requisitos funcionais** um requisito não funcional refere-se a características ou qualidades do sistema, como desempenho, segurança, facilidade de uso, confiabilidade, e assim por diante.
 
+<img src="https://dhg1h5j42swfq.cloudfront.net/2023/10/16115710/imagem-inicial-1.png" alt="cachorro sorrindo" width="508px">
