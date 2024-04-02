@@ -67,3 +67,5 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 
 [Clique aqui para mais informações](https://www.devmedia.com.br/trabalhando-com-engenharia-de-requisitos/30207)
 
+[Definição da Wikipédia](https://pt.wikipedia.org/wiki/Engenharia_de_requisitos)
+
