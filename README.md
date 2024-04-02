@@ -47,3 +47,7 @@ Um caso de uso representa uma unidade discreta da interação entre um usuário 
 
 [clique aqui para saber sobre caso de uso](https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml)
 
+#### CABOU-SE 
+
+![imagem](https://i.pinimg.com/originals/4b/98/db/4b98dbc553f7189c8557e0362fd6719e.png)
+
