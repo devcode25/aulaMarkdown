@@ -60,3 +60,5 @@ UC 1 | Usuario faz cadastro na plataforma
 UC 2 | Pós cadastro faz o login
 UC 3 | Pós login ela começa a aproveitar oque a plataforma tem a ofereçer 
 UC 4 | Compra algum produto da plataforma ou não 
+
+<h3>Obs: não usei site algum na hora da produção deste trabalho</h3>
