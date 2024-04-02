@@ -27,5 +27,15 @@ Existem dois tipos de classificação de requisitos, são eles: Requisitos Funci
 # use case:
 Casos de uso, use cases, conceitos criados por Ivar Jacobson em 1986, são textos ou diagramas que descrevem e justificam as tarefas a realizar em uma plataforma ou sistema através das interações com seus usuários.
 <img src="https://www.cin.ufpe.br/~rls2/processo_tg/Metodologia%20S&B/guidances/concepts/resources/im_uc.gif" alt="Girl in a jacket" width="500" height="600">
-#links sobre o assunto:
--https://www.techtarget.com/
+
+
+
+| número da uc | nome da uc | descrição da uc |
+|--------------|------------|-----------------|
+|  uc 01            |      email     | senha  
+
+
+
+## links sobre o assunto:
+
+## https://tableconvert.com/pt/markdown-generator
