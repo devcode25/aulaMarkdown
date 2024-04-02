@@ -43,5 +43,8 @@ Na engenharia de requisitos, diferentes tipos de requisitos são identificados e
 | Comunicação eficaz             | Estabelecimento de canais de comunicação claros e eficazes entre as partes interessadas para garantir um entendimento comum dos requisitos.               |
 | Gestão de conflitos            | Resolução de conflitos que possam surgir entre os requisitos de diferentes partes interessadas, garantindo decisões colaborativas e transparentes.           |
 
-[para maishttps://querobolsa.com.br/revista/engenharia-de-requisitos
+[para mais informações](https://querobolsa.com.br/revista/engenharia-de-requisitos)
+
+
+[via Wikipedia](https://pt.wikipedia.org/wiki/Engenharia_de_requisitos#:~:text=A%20engenharia%20de%20requisitos%20%C3%A9,manuten%C3%A7%C3%A3o%20ao%20longo%20do%20tempo.) 
 
