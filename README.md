@@ -46,5 +46,5 @@ A Engenharia de Requisitos é uma disciplina fundamental no desenvolvimento de s
 4. **Requisito de Interface:** Um sistema de reserva de hotel deve ter uma interface amigável para dispositivos móveis, permitindo que os usuários naveguem facilmente pelas opções de quartos, façam reservas e visualizem informações importantes, como políticas de cancelamento.
 
 5. **Requisito de Usuário:** Um sistema de gestão de tarefas deve permitir que os usuários criem listas de tarefas, atribuam prazos, prioridades e categorias às tarefas, e recebam notificações quando uma tarefa estiver próxima do prazo de vencimento.
-<img src="![image](https://github.com/Pontual10/aulaMarkdown/assets/84244042/52c3543c-cea2-4c0f-829a-2722910da2a6)
-" width="508px">
+
+<img src="https://github.com/Pontual10/aulaMarkdown/blob/main/Captura%20de%20tela%202024-04-02%20115309.png?raw=true" width="508px">
