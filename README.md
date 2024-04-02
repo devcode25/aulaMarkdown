@@ -2,6 +2,7 @@
 # Engenharia de Requisitos
 #### A Engenharia de Requisitos é uma disciplina da engenharia de software que se concentra na identificação, análise, documentação e gerenciamento dos requisitos de um sistema. Os requisitos são descrições detalhadas das funcionalidades, características e restrições que o sistema deve possuir para atender às necessidades dos usuários e das partes interessadas.
 # Tipos de requisitos:
+![img](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-8g4MuvD7RsFhI0gHU7l5_zpE5oQqs46b_QiAijdmNw&s)
 ## Requisitos Funcionais: 
 #### São as funcionalidades e comportamentos específicos que o sistema deve ser capaz de executar. Eles descrevem as interações entre o sistema e seus usuários, bem como as atividades internas do sistema. Exemplos de requisitos funcionais podem incluir:
    - O sistema deve permitir que os usuários se cadastrem com um nome de usuário e senha.
@@ -18,5 +19,3 @@
 | O sistema deve permitir que os usuários realizem login. | O sistema deve ser compatível com os navegadores Chrome, Firefox e Safari. |
 | O sistema deve permitir que os usuários realizem pesquisas por palavras-chave. | O tempo de resposta do sistema deve ser inferior a 2 segundos. |
 | O sistema deve permitir que os usuários enviem mensagens para outros usuários. | O sistema deve ser capaz de lidar com 1000 usuários simultaneamente sem apresentar lentidão. |
-
-![img](https://4.bp.blogspot.com/-jEyIVkoHMGQ/VAHod8bTrWI/AAAAAAAAIDI/Apz2T2hqe20/s1600/Engenharia%2Bde%2BRequisitos.jpg)
