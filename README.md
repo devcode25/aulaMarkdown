@@ -44,5 +44,9 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 
 Requisitos não funcionais são os requisitos relacionados ao uso da aplicação em termos de desempenho, usabilidade, confiabilidade, segurança, e tecnologias envolvidas. Estes requisitos dizem respeito a como as funcionalidades serão entregues ao usuário do software.
 
-
-Requisitos funcionais |
+Requisitos funcionais| Rquisitos não funcionais
+--------- | ------
+Ajuda na formulação do produto digital | determina os problemas 
+Compreende oque da de errado |   mostra oq se deve ser feito para solucioná-lo
+ todos os problemas e necessidades que devem ser atendidos e resolvidos pelo software  | 
+Os problemas resolvidos pelo software tem que ter os butões e  as fucionalidades neles próprios | R$ 8
