@@ -50,4 +50,20 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 | Documentar Requisitos                           | Refere-se à criação de documentos que registram e descrevem os requisitos de forma clara e compreensível.             |
 | Validar Requisitos                              | Envolve a verificação de que os requisitos capturados atendem às necessidades e expectativas dos usuários.            |
 | Gerenciar Requisitos                            | Inclui atividades como rastreamento de mudanças, resolução de conflitos e comunicação de alterações aos interessados. |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Caso de Uso        | Descrição                                                 |
+|--------------------|-----------------------------------------------------------|
+| Login              | Permite que o usuário acesse o sistema.                   |
+| Registro           | Permite que novos usuários se cadastrem no sistema.       |
+| Visualizar Perfil  | Permite que o usuário visualize as informações pessoais.  |
+| Editar Perfil      | Permite que o usuário atualize as informações pessoais.   |
+| Criar Postagem     | Permite que o usuário crie uma nova postagem.             |
+| Editar Postagem    | Permite que o usuário edite uma postagem existente.       |
+| Excluir Postagem   | Permite que o usuário exclua uma postagem existente.      |
+| Comentar           | Permite que o usuário comente em uma postagem.            |
+| Avaliar Postagem   | Permite que o usuário avalie uma postagem.                |
+| Seguir Usuário     | Permite que o usuário siga outros usuários.               |
+| Visualizar Feed    | Permite que o usuário visualize o feed de postagens.      |
+
+[Clique aqui para mais informações](https://www.devmedia.com.br/trabalhando-com-engenharia-de-requisitos/30207)
 
