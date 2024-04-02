@@ -49,4 +49,4 @@ Os requisitos não funcionais são aqueles que expressam como o sistema deve ser
 | Seguir Usuário     | Permite que o usuário siga outros usuários.               |
 | Visualizar Feed    | Permite que o usuário visualize o feed de postagens.      |
 
-[Saiba mais](https://www.devmedia.com.br/introducao-a-engenharia-de-requisitos/8034)
+[Saiba mais informações](https://www.devmedia.com.br/introducao-a-engenharia-de-requisitos/8034)
