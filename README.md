@@ -1,3 +1,4 @@
+
 # Aula prática - Markdown
 
 Este repositório servirá de base para você praticar a estrutura de texto markdown. 
@@ -35,3 +36,7 @@ Use case ou caso de uso é um caso de uso é um conceito usado no desenvolviment
 ![foto](https://web-static.wrike.com/cdn-cgi/image/width=900,format=auto/blog/content/uploads/2021/01/What-Is-a-Use-Case-2.png?av=548fc9ee46ffe762d4d810888952d424)
 
 Caso queira saber mais click no link a seguir ------>https://www.wrike.com/blog/what-is-a-use-case/#:~:text=A%20use%20case%20is%20a,to%20achieve%20a%20specific%20outcome.
+
+# Adeus!
+
+![foto](https://i.pinimg.com/564x/42/ae/14/42ae1434912b1f0d6a98db12516f15b6.jpg)
