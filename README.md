@@ -27,5 +27,26 @@ Um requisito funcional: È uma funcionalidade específica que o sistema deve ter
 
 Requisitos não funcionais são os requisitos relacionados ao uso da aplicação em termos de desempenho, usabilidade, confiabilidade, segurança, disponibilidade, manutenção e tecnologias envolvidas.
 
-<img src="https://giganteconsultoria.com.br/wp-content/uploads/2023/04/Functional-vs-Non-Functional-Requirements-1024x1024.png" alt="Girl in a jacket" width="500" height="600">
+<img src="https://media.licdn.com/dms/image/C4E12AQEfI0ChWkyF2Q/article-cover_image-shrink_600_2000/0/1623005853208?e=2147483647&v=beta&t=y6YkdC0Z0hrQNt31IUzw39Dn8YqnP3D6ULHvywVAb_w" width="800px">
+
+<img src="https://dhg1h5j42swfq.cloudfront.net/2023/10/16115710/imagem-inicial-1.png" width="800px">
+
+## Caso de uso
+
+| Caso de Uso        | Descrição                                          |
+|--------------------|----------------------------------------------------|
+| Login              | Permite que o usuário acesse o sistema.            |
+| Registro           | Permite que novos usuários se cadastrem no sistema.|
+| Visualizar Perfil  | Permite que o usuário visualize suas informações pessoais.|
+| Editar Perfil      | Permite que o usuário atualize suas informações pessoais.|
+| Criar Postagem     | Permite que o usuário crie uma nova postagem.      |
+| Editar Postagem    | Permite que o usuário edite uma postagem existente.|
+| Excluir Postagem   | Permite que o usuário exclua uma postagem existente.|
+| Comentar           | Permite que o usuário comente em uma postagem.     |
+| Avaliar Postagem   | Permite que o usuário avalie uma postagem.         |
+| Seguir Usuário     | Permite que o usuário siga outros usuários.       |
+| Visualizar Feed    | Permite que o usuário visualize o feed de postagens.|
+
+
+
 
