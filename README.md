@@ -15,4 +15,4 @@ Puoi studiare il contenuto [cliccando qui](https://docs.pipz.com/central-de-ajud
 - È necessario inserire collegamenti per accedere a siti di contenuti sull'argomento.
 
 
-## Andiamo! Inizia l'attività qui sotto 👇👇👇
+## Andiamo! Inizia l'attività qui sotto 
