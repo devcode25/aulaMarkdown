@@ -36,8 +36,6 @@ UC - 1   | Botões       | Adicionar os botôes do site e suas funcionalidades, 
 
 ## Saiba mais sobre Engenharia de requisitos [aqui](https://www.monitoratec.com.br/blog/servico-de-engenharia-de-requisitos/)
 
-# FIM
-
-![image](https://github.com/JoaoPapaya/aulaMarkdown-Jo-o-Mam-o/assets/164504291/d6902d0b-b25c-46db-a162-197e2fd262a0)
+![image](https://cdn.vox-cdn.com/thumbor/RMIcBoLarx3xqXQ_lOBYAUFHXr8=/11x46:1898x1034/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25125289/vlcsnap_2023_12_01_10h37m31s394.jpg)
 
 
