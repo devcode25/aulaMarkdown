@@ -35,3 +35,5 @@ Componetes | Pra que serve
 Sistema    | é o produto, serviço ou software. Exemplo: aplicativo de comida delivery. 
 Atores     | é tudo aquilo que interage diretamente com o sistema, podendo ser pessoas, outros sistemas ou até o tempo.
 Cenário    |  é uma sequência específica de ações que ocorrem entre os atores e o sistema em discussão.
+
+![imagem](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b5b848ab-3bc9-44c6-b2dc-abe2b7e70ae0/dgfcasr-210da597-6963-4632-a8c0-68325c33a102.jpg/v1/fill/w_1920,h_2899,q_75,strp/cid_kagenou__shadow__power_enhanced_by_kalizakiz_dgfcasr-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Mjg5OSIsInBhdGgiOiJcL2ZcL2I1Yjg0OGFiLTNiYzktNDRjNi1iMmRjLWFiZTJiN2U3MGFlMFwvZGdmY2Fzci0yMTBkYTU5Ny02OTYzLTQ2MzItYThjMC02ODMyNWMzM2ExMDIuanBnIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.LmjnSiCmwGntnDvWK79VUJmn51oRW6a-IIzFDJ3O1n8)
