@@ -49,5 +49,12 @@ Impõe características e limites, comumente apelidados de "atributos dew qualid
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaPWAlFdfgGtsvboXpb4ZjMtub6NcsnEShAzMTTwrLScHQO040K9GsGUr0P6j2fyPQjQE&usqp=CAU" alt="requisitos" width="508px">
 
-### Tabela sobre use case
+### Tabela comparativa
 ![image](https://github.com/luhiroshy/aulaMarkdown/assets/164904163/3345260b-412d-4034-bb1f-db139cdfdc00)
+
+### Sites sobre engenharia de requisitos
+ | Site usado    | Link para acesso                                                                                                                                                                                     |
+|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Monitoratec   | https://www.monitoratec.com.br/blog/servico-de-engenharia-de-requisitos/#:~:text=A%20engenharia%20de%20requisitos%20oferece,de%20desenvolvimento%2C%20opera%C3%A7%C3%A3o%20e%20manuten%C3%A7%C3%A3o. |
+| Metres da web | https://www.mestresdaweb.com.br/tecnologias/requisitos-funcionais-e-nao-funcionais-o-que-sao                                                                                                         |
+
