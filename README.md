@@ -21,7 +21,24 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 # Engenharia de requisitos
 -  A engenharia de requisitos oferece controles e padrões para que as exigências do projeto sejam claras, correspondam às suas finalidades e possam ser compreendidas por todos os responsáveis. Isso garante a qualidade do software, além de mais produtividade em suas etapas de desenvolvimento, operação e manutenção.
   ### Tipos de requisitos
-  - **requisitos funcionais** um requisito funcional é uma funcionalidade específica que o sistema deve ter, ou seja, uma ação que o sistema precisa ser capaz de realizar.
-  - **requisitos funcionais** um requisito não funcional refere-se a características ou qualidades do sistema, como desempenho, segurança, facilidade de uso, confiabilidade, e assim por diante.
+  - **requisitos funcionais** 
+Um requisito funcional é uma declaração de como um sistema deve se comportar. Define o que o sistema deve fazer para atender às necessidades ou expectativas do usuário. Os requisitos funcionais podem ser pensados ​​como recursos que o usuário detecta. Eles são diferentes dos requisitos não funcionais, que definem como o sistema deve funcionar internamente (por exemplo, desempenho, segurança, etc.).
+Os requisitos funcionais são compostos de duas partes: função e comportamento. A função é o que o sistema faz (por exemplo, “calcular imposto sobre vendas”). O comportamento é como o sistema faz isso (por exemplo, “O sistema deve calcular o imposto sobre vendas multiplicando o preço de compra pela alíquota do imposto.”).
+- **requisitos não funcionais**
+- Os requisitos não funcionais explicam as limitações e restrições do sistema a ser projetado. Esses requisitos não têm nenhum impacto na funcionalidade do aplicativo. Além disso, existe uma prática comum de subclassificar os requisitos não funcionais em várias categorias, como:
 
+Interface de Usuário,
+Confiabilidade,
+Segurança,
+Performance,
+Manutenção,
+Standards,
+Subclassificar os requisitos não funcionais é uma boa prática. Ajuda na hora de criar uma lista de verificação dos requisitos que devem ser atendidos no sistema a ser projetado. 
 <img src="https://dhg1h5j42swfq.cloudfront.net/2023/10/16115710/imagem-inicial-1.png" alt="cachorro sorrindo" width="508px">
+
+Exemplo   | Valor do exemplo
+--------- | ------
+Exemplo 1 | R$ 10
+Exemplo 2 | R$ 8
+Exemplo 3 | R$ 7
+Exemplo 4 | R$ 8
