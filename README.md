@@ -57,6 +57,5 @@ Impõe características e limites, comumente apelidados de "atributos dew qualid
  | Site usado    | Link para acesso                                                                                                                                                                                     |
 |---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Monitoratec   | [Site 1](https://www.monitoratec.com.br/blog/servico-de-engenharia-de-requisitos/#:~:text=A%20engenharia%20de%20requisitos%20oferece,de%20desenvolvimento%2C%20opera%C3%A7%C3%A3o%20e%20manuten%C3%A7%C3%A3o)|
-| Metres da web | [Site 2](https://www.mestresdaweb.com.br/tecnologias/requisitos-funcionais-e-nao-funcionais-o-que-sao)       
-                                                                                                     |
+| Metres da web | [Site 2](https://www.mestresdaweb.com.br/tecnologias/requisitos-funcionais-e-nao-funcionais-o-que-sao)          |
 
