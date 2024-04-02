@@ -34,13 +34,15 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 1.Requisitos funcionais
 
 2.Requisitos não funcionais 
+ 
+ **<h2>Exemplos onde eles se encaixam:</h2>**
+1.requisitos funcionais é basicamente uma lista do que se precissa para o produto digital realmente funcionar, e se não funcionar compreender o que está dando errado.
 
-3.Usabilidade 
+<img src="https://hermes.dio.me/articles/cover/0bd41568-c8f0-4c7b-be81-110c470e499c.png" width="500px">
 
-4. Desempenho
+2.Requisitos não funcionais
 
-5. segurança
+Requisitos não funcionais são os requisitos relacionados ao uso da aplicação em termos de desempenho, usabilidade, confiabilidade, segurança, e tecnologias envolvidas. Estes requisitos dizem respeito a como as funcionalidades serão entregues ao usuário do software.
 
-6. conformidade
- **<h1>Exemplos onde eles se encaixem:</h1>**
-1.requisitos funcionais é basicamente uma lista do que se precissa pra aquilo realmente funcionar e se não funcionar pq?
+
+Requisitos funcionais |
