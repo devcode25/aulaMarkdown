@@ -23,20 +23,31 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 ### O que é e pra que serve
 A engenharia de requisistos consiste numa maneira de organização para um projeto, visando claros objetivos e suas finalidades.
 
-![Análise de requesitos](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI_hYThxrzO1OSBMXq0uZ0b9IrbbMoz1DKLg&usqp=CAU)
-### Tipos de requisitos 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI_hYThxrzO1OSBMXq0uZ0b9IrbbMoz1DKLg&usqp=CAU" alt="engenharia de requisitos" width="508px">
+
+ ### Tipos de requisitos 
+
 * Requsitos funcionais
+
 São as funções que o sistema deve fornecer e o que ele deve ou não fazer
+
 1. Botões de incluir, alterar ou excluir um registro
+
 2. Opções de cadastro
+
 3. Pesquisas de navegação
+
 * Requisitos não funcionais
+
 Impõe características e limites, comumente apelidados de "atributos dew qualidade"
+
 1. Uma proteção do sistema
+
 2. Uma fácil utilização
+
 3. Deve cumprir regulamentos necessários 
 
-![Requisitos](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaPWAlFdfgGtsvboXpb4ZjMtub6NcsnEShAzMTTwrLScHQO040K9GsGUr0P6j2fyPQjQE&usqp=CAU)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaPWAlFdfgGtsvboXpb4ZjMtub6NcsnEShAzMTTwrLScHQO040K9GsGUr0P6j2fyPQjQE&usqp=CAU" alt="requisitos" width="508px">
 
 ### Tabela sobre use case
 ![image](https://github.com/luhiroshy/aulaMarkdown/assets/164904163/3345260b-412d-4034-bb1f-db139cdfdc00)
