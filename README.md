@@ -41,4 +41,13 @@ Ex.:     <img src="https://analisederequisitos.com.br/wp-content/uploads/2018/03
 
 ## **Tabela comparativa**
 
-<img src="https://github.com/shayalmeidaa/aulaMarkdown/blob/main/WhatsApp%20Image%202024-04-01%20at%2012.17.07.jpeg?raw=true" width="650px">
+<img src="https://github.com/shayalmeidaa/aulaMarkdown/blob/main/WhatsApp%20Image%202024-04-01%20at%2012.17.07.jpeg?raw=true" width="700px">
+
+## **Links de sites sobre Engenharia de Requisitos**
+
+| **Nome do site**          | **Link de acesso**                                                                                                                                                                                                 |
+|-----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Monitora              | [Site 1](https://www.monitoratec.com.br/blog/servico-de-engenharia-de-requisitos/#:~:text=A%20engenharia%20de%20requisitos%20oferece,de%20desenvolvimento%2C%20opera%C3%A7%C3%A3o%20e%20manuten%C3%A7%C3%A3o.) |
+| DevMedia              | [Site 2](https://www.devmedia.com.br/introducao-a-engenharia-de-requisitos/8034)                                                                                                                               |
+| Casa do Desenvolvedor | [Site 3](https://blog.casadodesenvolvedor.com.br/requisitos-funcionais-e-nao-funcionais/)                                                                                                                      |
+| Mestres da Web        | [Site 4](https://www.mestresdaweb.com.br/tecnologias/requisitos-funcionais-e-nao-funcionais-o-que-sao)                                                                                                         |
