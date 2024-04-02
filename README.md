@@ -16,3 +16,7 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 
 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
+
+* Malo 
+
+![gatio](https://i.pinimg.com/originals/59/8f/a2/598fa243ec33a1267f6de3a4487778d4.jpg)
