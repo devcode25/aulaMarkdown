@@ -30,9 +30,9 @@ Casos de uso, use cases, conceitos criados por Ivar Jacobson em 1986, são texto
 
 
 
-| número da uc | nome da uc | descrição da uc |
-|--------------|------------|-----------------|
-|  uc 01          email     | coloque seu email para cadasrtrar  
+| número da uc | nome da uc | descrição da uc                 |
+|--------------|------------|---------------------------------|
+| uc 01        | email      | coloque seu email para cadastro |
 
 
 
