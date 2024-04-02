@@ -20,6 +20,6 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 
 # Pesquisa Engenharia de Requisitos 
 
-**Conceito:**
-Área responsável por rindentificar, analizar, documentar e gerenciar os requisitos de um sistema, garantindo que as necessidades dos stakeholders sejam compreendidas e atendidas durante todo o ciclo de vida do desenvolvimente. 
+**conceito:**
+Área responsável por indentificar, analizar, documentar e gerenciar os requisitos de um sistema, garantindo que as necessidades dos stakeholders sejam compreendidas e atendidas durante todo o ciclo de vida do desenvolvimente. 
 
