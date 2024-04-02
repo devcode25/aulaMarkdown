@@ -92,3 +92,5 @@ Nessa etapa o principal objetivo é identificar os conflitos entre os requisitos
 
 ![Engenharia de requisitos2](https://arquivo.devmedia.com.br/artigos/Fabio_Gomes_Rocha/Engenharia_Requisitos/Engenharia_Requisitos_1.jpg)
 
+![img](https://miro.medium.com/v2/resize:fit:1400/1*py0lrjFz-HkS9mw0HJSlLQ.png)
+
