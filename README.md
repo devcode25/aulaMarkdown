@@ -55,3 +55,14 @@ UC é reconhecido como use case ou caso de uso, ele serve para falar a finalidad
 UC  |        NOME DA UC           |        DESCRIÇÃO DA UC           |
 ----|-----------------------------|----------------------------------|
 UC-1| Configuração do Wi-fi       |
+
+
+
+
+
+
+
+
+
+
+![imagem](https://files.tecnoblog.net/wp-content/uploads/2022/09/stable-diffusion-imagem.jpg)
