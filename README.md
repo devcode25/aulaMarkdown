@@ -58,3 +58,8 @@ Casos de uso| são os processos que acontecem dentro do sistema, a partir de um 
 [devmedia](https://www.devmedia.com.br/introducao-a-engenharia-de-requisitos/8034)
 
 [blog.mosaico](https://blogmosaico.medium.com/use-cases-por-que-voce-precisa-deles-584b99e3e670)
+
+
+# Omaagaaaa
+
+![image](https://pbs.twimg.com/media/FETwCfoacAA_AWj?format=jpg&name=4096x4096)
