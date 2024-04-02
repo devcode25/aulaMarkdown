@@ -35,8 +35,8 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
      * Descrevem características do sistema não diretamente relacionadas às funcionalidades.
        * Exemplo: Para o mesmo sistema de e-commerce, "o tempo de resposta do sistema deve ser inferior a 2 segundos durante o pico de tráfego".
         
-**3**.**Exemplos de Aplicação** 
-       1.**Requisito Funcional:**
+**3**.**Exemplos de Aplicação**  
+       1. **Requisito Funcional:**
          * Em um aplicativo de streaming de música, "permitir aos usuários criar playlists personalizadas".
         2.**Requisito não Funcional:**
          * Para o mesmo aplicativo, "a interface do usuário deve ser intuitiva e fácil de usar, mesmo para usuários novatos".
