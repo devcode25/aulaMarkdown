@@ -1,5 +1,3 @@
-# Aula prática - Markdown
-
 Este repositório servirá de base para você praticar a estrutura de texto markdown. 
 
 Primeiramente faça um fork, edite inserindo a pesquisa, e no final, faça o commit para salvar o conteúdo.
