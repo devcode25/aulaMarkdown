@@ -42,4 +42,5 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 5. segurança
 
 6. conformidade
- **<h1>Exemplos</h1>**
+ **<h1>Exemplos onde eles se encaixem:</h1>**
+1.requisitos funcionais é basicamente uma lista do que se precissa pra aquilo realmente funcionar e se não funcionar pq?
