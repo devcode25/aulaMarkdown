@@ -47,3 +47,5 @@ https://www.devmedia.com.br/introducao-a-engenharia-de-requisitos/8034
 https://querobolsa.com.br/revista/engenharia-de-requisitos
 
 https://www.monitoratec.com.br/blog/servico-de-engenharia-de-requisitos/#:~:text=A%20engenharia%20de%20requisitos%20oferece,de%20desenvolvimento%2C%20opera%C3%A7%C3%A3o%20e%20manuten%C3%A7%C3%A3o.
+
+![img](https://media.tenor.com/YKgpivai3fYAAAAM/good-night-homestuck-good-evening-homestuck.gif)
