@@ -35,10 +35,10 @@ Manutenção,
 Standards,
 Subclassificar os requisitos não funcionais é uma boa prática. Ajuda na hora de criar uma lista de verificação dos requisitos que devem ser atendidos no sistema a ser projetado. 
 <img src="https://dhg1h5j42swfq.cloudfront.net/2023/10/16115710/imagem-inicial-1.png" alt="cachorro sorrindo" width="508px">
-
-Exemplo   | Valor do exemplo
---------- | ------
-Exemplo 1 | R$ 10
-Exemplo 2 | R$ 8
-Exemplo 3 | R$ 7
-Exemplo 4 | R$ 8
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTobP02vGPobcG8VCsIzkFTd2Tcn3y0HbzGnsdZpgSIvg&s" alt="cachorro sorrindo" width="508px">
+Exemplo |tela de login
+------| ------
+uc 1 |O usuário deve usar o email escolhido para a conta
+uc 2 | O usuário deve preencher uma sequencia para segurança da conta
+uc 3 |O usuário vai criar uma conta para o serviço online
+uc 4 |O usuário vai poder criar uma nova senha para acessar a conta
