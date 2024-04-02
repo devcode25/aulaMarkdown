@@ -27,7 +27,7 @@ A engenharia de requisistos consiste numa maneira de organização para um proje
 
  ## Tipos de requisitos 
 
-### * Requsitos funcionais
+* ### Requsitos funcionais
 
 São as funções que o sistema deve fornecer e o que ele deve ou não fazer
 
@@ -37,7 +37,7 @@ São as funções que o sistema deve fornecer e o que ele deve ou não fazer
 
 3. Pesquisas de navegação
 
-### * Requisitos não funcionais
+* ### Requisitos não funcionais
 
 Impõe características e limites, comumente apelidados de "atributos dew qualidade"
 
