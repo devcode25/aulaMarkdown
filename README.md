@@ -35,17 +35,17 @@ Requisitos não funcionais são os requisitos relacionados ao uso da aplicação
 
 | Caso de Uso        | Descrição                                          |
 |--------------------|----------------------------------------------------|
-| Login              | Permite que o usuário acesse o sistema.            |
-| Registro           | Permite que novos usuários se cadastrem no sistema.|
-| Visualizar Perfil  | Permite que o usuário visualize suas informações pessoais.|
+| Login              | Permite o acesso do usuário.            |
+| Registro           | Permite que novos usuários se cadastrem.|
+| Visualizar Perfil  | Permite que o usuário vejam suas informações pessoais.|
 | Editar Perfil      | Permite que o usuário atualize suas informações pessoais.|
 | Criar Postagem     | Permite que o usuário crie uma nova postagem.      |
-| Editar Postagem    | Permite que o usuário edite uma postagem existente.|
-| Excluir Postagem   | Permite que o usuário exclua uma postagem existente.|
+| Editar Postagem    | Permite que o usuário edite uma postagem existente, para deixar melhor.|
+| Excluir Postagem   | Permite que o usuário exclua uma postagem existente, que ele não queira.|
 | Comentar           | Permite que o usuário comente em uma postagem.     |
 | Avaliar Postagem   | Permite que o usuário avalie uma postagem.         |
 | Seguir Usuário     | Permite que o usuário siga outros usuários.       |
-| Visualizar Feed    | Permite que o usuário visualize o feed de postagens.|
+| Visualizar Feed    | Permite que o usuário veja o feed de postagens.|
 
 
 
