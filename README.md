@@ -99,3 +99,5 @@ COnsiste em uma maneira de organização dos requisitos funcionais. Funciona com
  :----|------------------------|--------------------------------------------------------|
  UC-1 | Configuração do wi-fi  | ser conecta o QR Code da lâmpada conectando com o wi-fi|
  UC-2 | Login bluetooth        | User conecta a lâmpada com a assistênte virtual        |
+
+ <img src="https://media.tenor.com/qt4W8ft91-QAAAAM/work-at-a-pizza-place-roblox.gif" alt="image" widht="500">                      **ADEUS**
