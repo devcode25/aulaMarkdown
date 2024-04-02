@@ -23,16 +23,22 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 
 A engenharia de requisitos é o meio essencial para a obtenção de sucesso em um projeto, em que ele estabelece o que é necessário para o planejamento do projeto, sendo a sua base, guiando os desenvolvedores de acordo com o que deve ser feito, alinhados às necessidades dos usuários e suas demandas. 
 
-https://blog-static.infra.grancursosonline.com.br/wp-content/uploads/2020/03/10121622/inni.png
+<img src="https://blog-static.infra.grancursosonline.com.br/wp-content/uploads/2020/03/10121622/inni.png" width="650px">
 
 ## **Tipos de requisitos**
 
 **Funcionais** 
 
 Se referem ao objetivo do sistema, o que ele deve fazer, ou seja, suas funções. 
-Ex.: https://github.com/shayalmeidaa/aulaMarkdown/blob/main/WhatsApp%20Image%202024-04-01%20at%2012.17.07.jpeg?raw=true
+
+Ex.:    <img src="https://analisederequisitos.com.br/wp-content/uploads/2018/03/o-que-e-um-requisito-funcional-requisitos-de-software-exemplo.png" width="650px">
 
 **Não-funcionais** 
 
 Se trata da qualidade do software, isto é, o desempenho do sistema, sua segurança, usabilidade, etc. 
-Ex.: 
+
+Ex.:     <img src="https://analisederequisitos.com.br/wp-content/uploads/2018/03/o-que-sao-requisitos-nao-funcionais-requisitos-de-sofware.png" width="650PX">
+
+## **Tabela comparativa**
+
+<img src="https://github.com/shayalmeidaa/aulaMarkdown/blob/main/WhatsApp%20Image%202024-04-01%20at%2012.17.07.jpeg?raw=true" width="650px">
