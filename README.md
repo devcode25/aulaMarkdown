@@ -15,3 +15,5 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 - Deverá inserir links para acessar sites de conteúdo sobre o assunto.
 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
+
+![img](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlufO7lzLZPYjfPbxkSJsHWXwuJ1keCJHKxks95hFSzQ&s)
