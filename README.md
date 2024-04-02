@@ -17,11 +17,35 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
 
-# ENGENHARIA DE REQUISITOS
+# ENGENHARIA DE REQUISITOS <img src="https://th.bing.com/th/id/OIP.HjoGRN9j_-orGSc5Qqhq7gHaHa?w=153&h=180&c=7&r=0&o=5&pid=1.7" alt="Descrição da imagem" width="100">
 
-<H2>
+<h2>
   Conceito Geral:  🏖️
-</H2>
+  Engenharia de requisitos é o processo de elicitar, analisar, documentar e validar requisitos de um sistema, garantindo que as necessidades dos stakeholders sejam compreendidas e atendidas durante o desenvolvimento de software.
+</h2>
+  
+
+<h2>
+  
+| Tipo de Requisito          | Descrição                                                                                                                                                                       |
+|----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Requisitos Funcionais      | Descrevem as funções específicas que o sistema deve executar, ou seja, as ações que o sistema deve ser capaz de realizar em resposta a entradas específicas.                |
+| Requisitos Não Funcionais  | Especificam atributos do sistema, como desempenho, usabilidade, confiabilidade, segurança e outros aspectos que não estão diretamente relacionados às funcionalidades específicas. |
+| Requisitos de Interface do Usuário | Descrevem como o sistema se comunica com os usuários, incluindo layout, design, interações e fluxos de trabalho.                                                           |
+| Requisitos de Desempenho   | Especificam os critérios de desempenho que o sistema deve atender, como tempo de resposta, throughput, capacidade, etc.                                                        |
+| Requisitos de Segurança    | Definem os mecanismos de segurança que devem ser implementados no sistema para proteger dados sensíveis e garantir a integridade e a confidencialidade das informações.          |
+| Requisitos de Rastreabilidade | Permitem rastrear a origem e o impacto de cada requisito ao longo do ciclo de vida do projeto, facilitando a gestão de mudanças e garantindo que todos os requisitos sejam atendidos. |
+  
+</h2>
+
+<img src="https://th.bing.com/th/id/OIP.EValhUqOwsQzV0JNAWDPGgHaEI?w=323&h=180&c=7&r=0&o=5&pid=1.7" alt="Descrição da imagem" width="508">
+
+[Clique aqui para visitar o Site](https://brasil.uxdesign.cc/a-rela%C3%A7%C3%A3o-entre-a-experi%C3%AAncia-da-pessoa-usu%C3%A1ria-e-a-engenharia-de-requisitos-77ea749d4a5d)
+
+
+
+
+
 
 
 
