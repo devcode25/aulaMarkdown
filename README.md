@@ -1,4 +1,4 @@
-![download](https://github.com/PedrodeMeloTorres/aulaMarkdown/assets/164503681/d3480bc6-e046-4f8b-b5c0-49dcff69c9dd)
+
 # Aula prática - Markdown
 
 Este repositório servirá de base para você praticar a estrutura de texto markdown. 
@@ -35,5 +35,6 @@ Pessoas  | são clientes, funcionários, técnicos, instaladores ou gerentes do 
 Tempo  | são iniciadores baseados em tempo ou acionadores de atividade de processamento para o sistema.
 
 ![software_quality-use_case_methodology-f_mobile](https://github.com/PedrodeMeloTorres/aulaMarkdown/assets/164503681/6e2eb84f-1966-4d40-9fc2-92e6d06f656b)
+
 ![download](https://github.com/PedrodeMeloTorres/aulaMarkdown/assets/164503681/ac2f4d05-c2f1-4546-953d-d05c7fc90752)
 
