@@ -52,9 +52,11 @@ Compreende oque da de errado |   Mostra oq se deve ser feito para solucioná-lo
 Os problemas resolvidos pelo software tem que ter os butões e  as fucionalidades neles próprios | Usa-se Uc's para melhor entendimento passo a passo
 
 <h1>Exemplo</h1>
-Uc's  | Descrições
+ 
+
+UC's  | Descrições
 --------- | ------
 UC 1 | Usuario faz cadastro na plataforma
 UC 2 | Pós cadastro faz o login
-UC 3 | Pós login ela começa a aproveitar oque a plataforma tem a ofereçer   
+UC 3 | Pós login ela começa a aproveitar oque a plataforma tem a ofereçer 
 UC 4 | Compra algum produto da plataforma ou não 
