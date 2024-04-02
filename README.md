@@ -38,7 +38,7 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
   
 </h2>
 
-<img src="https://th.bing.com/th/id/OIP.EValhUqOwsQzV0JNAWDPGgHaEI?w=323&h=180&c=7&r=0&o=5&pid=1.7" alt="Descrição da imagem" width="508">
+<img src="https://www.nucleodoconhecimento.com.br/wp-content/uploads/2016/12/f13-exemplo-ilustrativo-modelo-mvp-2.png" alt="Descrição da imagem" width="508">
 
 [Clique aqui para visitar o Site](https://brasil.uxdesign.cc/a-rela%C3%A7%C3%A3o-entre-a-experi%C3%AAncia-da-pessoa-usu%C3%A1ria-e-a-engenharia-de-requisitos-77ea749d4a5d)
 
