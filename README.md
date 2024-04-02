@@ -48,3 +48,4 @@ A Engenharia de Requisitos é uma disciplina fundamental no desenvolvimento de s
 5. **Requisito de Usuário:** Um sistema de gestão de tarefas deve permitir que os usuários criem listas de tarefas, atribuam prazos, prioridades e categorias às tarefas, e recebam notificações quando uma tarefa estiver próxima do prazo de vencimento.
 
 <img src="https://github.com/Pontual10/aulaMarkdown/blob/main/Captura%20de%20tela%202024-04-02%20115309.png?raw=true" width="508px">
+Aqui um bom site caso queira estudar mais: https://scholar.google.com/
