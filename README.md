@@ -47,6 +47,10 @@ Requisitos não funcionais são os requisitos relacionados ao uso da aplicação
 | Seguir Usuário     | Permite que o usuário siga outros usuários.       |
 | Visualizar Feed    | Permite que o usuário veja o feed de postagens.|
 
+https://www.google.com/search?sca_esv=78d3e0b7da712cbc&rlz=1C1JJTC_pt-ptBR1098BR1098&sxsrf=ACQVn08jpOaSOq22sCLAl4XHujtczJlaSw:1712070885343&q=requisitos+funcionais&uds=AMwkrPuKiz3kd7jHuta4ar-HNLVtMX4hM2UJde3wouYf3Be4fMTLZG46TmQ8VAzjp4Ol0FwNaDyFTdBCErfYfLaC0mxSOmbTff4zrvck0UqgDih_rKeXWx5gfhDLv8Oz8pR96bvk5xrcLZNVG_gjqRfXpksGxMXrVApSh00T_tG8y7x-yBT3S7deXJtlrUl19MMdeWTsQoP7emOK-_8N7psnnPieRKg-xtX1CqFllnPBOzfluUTWWZi_H6oEwdz4HVmDf64Wz-5ja3FSOZjQCnJIAyjzNVRTsNMXN8HGQfTLPt0rfIXzNkllOTYlF1J_NJTJlsa7tohO8n0tVdsx6IglGBXVzq7KIw&udm=2&prmd=ivsnbmtz&sa=X&ved=2ahUKEwiSz82H6aOFAxVIK7kGHaNDAvAQtKgLegQIDhAB&biw=1920&bih=911&dpr=1
+
+https://chat.openai.com/
+
 
 
 
