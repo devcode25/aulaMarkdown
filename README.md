@@ -39,11 +39,10 @@ Uc 2                 | Nome2 | Função 2
 Uc 3                 | Nome3 | Função 3
 
 
-
-
 #### Links Sobre Engenharia De Requisitos:
 
 [Link_1](https://querobolsa.com.br/revista/engenharia-de-requisitos)
 [Link_2](https://www.devmedia.com.br/introducao-a-engenharia-de-requisitos/8034)
 
 
+<img src="https://img.quizur.com/f/img648efbd5b00b28.10275519.jpg?lastEdited=1687092187" alt="Gato" width="650px">
