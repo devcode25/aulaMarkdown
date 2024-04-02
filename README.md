@@ -53,7 +53,25 @@ Requisito de Interface: Um sistema de automação residencial deve ser capaz de 
 
 Requisito de Usuário: Um aplicativo de fitness deve fornecer aos usuários feedback personalizado sobre seu progresso e metas de treinamento.
 
-[img](https://arquivo.devmedia.com.br/artigos/Fabio_Gomes_Rocha/Engenharia_Requisitos/Engenharia_Requisitos_1.jpg) 
+
+
+<img src="https://arquivo.devmedia.com.br/artigos/Fabio_Gomes_Rocha/Engenharia_Requisitos/Engenharia_Requisitos_1.jpg" width="508px">
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0Tu6TC4tEmxIp9sjqUY1E9rufl_XhLh5kh4AiERffhQ&s" width="508px">
+
+| Aspecto            | Caso de Uso                                        |
+|--------------------|-----------------------------------------------------|
+| Definição          | Descreve as interações entre atores e o sistema.   |
+| Objetivo           | Capturar requisitos funcionais do sistema.         |
+| Abordagem          | Centrado no comportamento externo do sistema.      |
+| Nível de detalhe    | Detalha a interação usuário-sistema.               |
+| Utilização        | Principalmente na fase de análise de requisitos.  |
+| Representação      | Diagrama de caso de uso, descrição textual.        |
+| Flexibilidade     | Pode ser adaptado para diferentes metodologias.    |
+
+[Fonte](https://www.devmedia.com.br/introducao-a-engenharia-de-requisitos/8034)
+
+
 
 
 
