@@ -46,7 +46,7 @@ Requisitos não funcionais são os requisitos relacionados ao uso da aplicação
 
 Requisitos funcionais| Rquisitos não funcionais
 --------- | ------
-Ajuda na formulação do produto digital | determina os problemas 
-Compreende oque da de errado |   mostra oq se deve ser feito para solucioná-lo
- todos os problemas e necessidades que devem ser atendidos e resolvidos pelo software  | 
-Os problemas resolvidos pelo software tem que ter os butões e  as fucionalidades neles próprios | R$ 8
+Ajuda na formulação do produto digital | Determina os problemas 
+Compreende oque da de errado |   Mostra oq se deve ser feito para solucioná-lo
+ todos os problemas e necessidades que devem ser atendidos e resolvidos pelo software  | Serve também para futuras melhorias
+Os problemas resolvidos pelo software tem que ter os butões e  as fucionalidades neles próprios | Usa-se Uc's para melhor entendimento passo a passo
