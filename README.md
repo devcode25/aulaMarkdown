@@ -43,4 +43,11 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 
  <img src="https://www.nkey.com.br/wp-content/uploads/2022/06/developing-programming-and-coding-technologies-wor-2022-02-03-01-11-56-utc-2-1030x687.jpg" width="508px"> <img src="https://arquivo.devmedia.com.br/marketing/img/artigo-arquitetura-de-software-desenvolvimento-orientado-para-arquitetura-8033.png" width="508px">
 
- 
+| Caso de Uso                                     | Descrição                                                                                                             |
+|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| Elicitar Requisitos                             | Envolve a coleta de informações sobre os requisitos do sistema, geralmente por meio de entrevistas ou workshops.      |
+| Analisar Requisitos                             | Consiste em examinar os requisitos coletados para entender sua viabilidade, consistência e prioridade.                |
+| Documentar Requisitos                           | Refere-se à criação de documentos que registram e descrevem os requisitos de forma clara e compreensível.             |
+| Validar Requisitos                              | Envolve a verificação de que os requisitos capturados atendem às necessidades e expectativas dos usuários.            |
+| Gerenciar Requisitos                            | Inclui atividades como rastreamento de mudanças, resolução de conflitos e comunicação de alterações aos interessados. |
+
