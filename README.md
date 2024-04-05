@@ -1,4 +1,6 @@
 # Aula prática - Markdown
+<img src="https://media.tenor.com/Y6kmrGROgqkAAAAM/ronaldo-cr7.gif" alt="Girl in a jacket" width="500" height="600">
+
 
 Este repositório servirá de base para você praticar a estrutura de texto markdown. 
 
