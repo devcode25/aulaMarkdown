@@ -1,6 +1,8 @@
-# VERSÃO 2 #
+# VERSÃO 3 #
 
-# Aula prática - Markdown
+<img src="https://media2.giphy.com/media/WRoO0gqUJeTPjcADGl/giphy.gif?cid=6c09b952oqbuplae28c17oz2acd6ttxlfan7to75cxtt89tp&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="408px">
+
+# Aula prática - Markdown 
 
 Este repositório servirá de base para você praticar a estrutura de texto markdown. 
 
