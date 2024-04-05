@@ -1,5 +1,8 @@
 # VERSÃO 3
 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR58O9SZJtXgtXAEZgueO7Wor9ARxrqFWlwes3BhaVWVA&s" alt="cristiano ronaldo" width="508px">
+
+
 
 ## Pesquisa de Engenharia de Requisitos
 **_A engenharia de requisitos é um processo que engloba todas as atividades que contribuem para a produção de um documento de requisitos e sua manutenção ao longo do tempo._**
