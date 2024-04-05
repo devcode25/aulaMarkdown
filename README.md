@@ -1,4 +1,8 @@
-# VERSÃO 2
+# VERSÃO 3   
+
+<img src=https://giffiles.alphacoders.com/213/213690.gif width="380px">    
+
+
 
 # Aula prática - Markdown
 
@@ -32,7 +36,7 @@ A engenharia de requisitos é uma disciplina da engenharia de software que se co
 
 Na engenharia de requisitos, diferentes tipos de requisitos são identificados e documentados para guiar o desenvolvimento de sistemas de software. Os principais tipos incluem: Requisitos Funcionais (descrevem o que o sistema deve fazer), Requisitos Não Funcionais (especificam critérios de desempenho e qualidade), Requisitos de Interface do Usuário (descrevem interações com os usuários), Requisitos de Sistema (propriedades e restrições do sistema), Requisitos de Negócio (necessidades e objetivos empresariais), Requisitos de Domínio (conceitos específicos do campo de aplicação) e Requisitos de Rastreabilidade (estabelecem relações entre requisitos e outros artefatos de desenvolvimento). Esses tipos garantem que o sistema atenda às necessidades dos usuários e partes interessadas, abrangendo funcionalidades, qualidade, interfaces e conformidade com os objetivos do negócio.
 
-<img src=https://i.ytimg.com/vi/QK_0GppsvZ4/maxresdefault.jpg width="515px">  <img src=
+<img src=https://i.ytimg.com/vi/QK_0GppsvZ4/maxresdefault.jpg width="515px"> 
 
 |    tópicos                     | Descrição                                                                                                                                                      |
 |--------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
