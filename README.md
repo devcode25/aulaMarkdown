@@ -15,7 +15,7 @@
 # ENGENHARIA DE REQUISITOS <img src="https://th.bing.com/th/id/OIP.HjoGRN9j_-orGSc5Qqhq7gHaHa?w=153&h=180&c=7&r=0&o=5&pid=1.7" alt="Descrição da imagem" width="100">
 
 <h2>
-  Conceito Geral:  🏖️
+  Conceito Geral: 🏖️
   Engenharia de requisitos é o processo de elicitar, analisar, documentar e validar requisitos de um sistema, garantindo que as necessidades dos stakeholders sejam compreendidas e atendidas durante o desenvolvimento de software.
 </h2>
   
