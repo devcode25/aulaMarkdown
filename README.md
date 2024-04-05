@@ -1,10 +1,10 @@
-# VERSÃO
+# **VERSÃO**
 
 <div style="display:flex;">
     <div style="flex:1;">
     </div>
     <div style="flex:1;">
-        <img src="https://images.tcdn.com.br/img/img_prod/738068/numero_3_em_eva_10027_1_19a412e906c42469c7ec79b5e0aa802b.png" alt="Descrição da imagem" width="150">
+        <img src="https://images.tcdn.com.br/img/img_prod/738068/numero_3_em_eva_10027_1_19a412e906c42469c7ec79b5e0aa802b.png" alt="Descrição da imagem" width="100">
     </div>
 </div>
 
