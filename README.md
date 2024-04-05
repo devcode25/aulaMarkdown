@@ -1,3 +1,5 @@
+# VERSÃO 2
+
 # Aula prática - Markdown
 
 Este repositório servirá de base para você praticar a estrutura de texto markdown. 
@@ -13,7 +15,6 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 - Deverá conter no mínimo 2 imagens
 - Deverá inserir uma tabela comparativa, exemplicando o use case
 - Deverá inserir links para acessar sites de conteúdo sobre o assunto.
-
 
 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
