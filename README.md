@@ -1,6 +1,6 @@
 # VERSÃO 3
 
-# Aula prática - Markdown   <img src="https://hips.hearstapps.com/pop.h-cdn.co/assets/17/24/640x320/landscape-1497533116-not-dead.gif?resize=640:*" width="200">
+# Aula prática - Markdown   <img src="https://claudia.abril.com.br/wp-content/uploads/2020/01/giphy-8-1.gif?&w=720&crop=1" width="200">
 
 Este repositório servirá de base para você praticar a estrutura de texto markdown. 
 
