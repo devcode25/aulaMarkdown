@@ -1,4 +1,4 @@
-# Aula prática - Markdown
+# Aula prática - Markdown :mushroom:
 
 Este repositório servirá de base para você praticar a estrutura de texto markdown. 
 
