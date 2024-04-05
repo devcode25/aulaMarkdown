@@ -1,6 +1,6 @@
-# Versão 2
+# Versão 3
 
-# Aula prática - Markdown
+# Aula prática - Markdown ![img](https://img1.picmix.com/output/stamp/normal/9/1/7/8/1608719_8409c.gif
 
 Este repositório servirá de base para você praticar a estrutura de texto markdown. 
 
