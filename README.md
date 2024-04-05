@@ -1,4 +1,4 @@
-# Aula prática - Markdown
+# Aula prática - Markdown V2
 
 Este repositório servirá de base para você praticar a estrutura de texto markdown. 
 
