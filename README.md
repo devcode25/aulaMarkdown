@@ -1,4 +1,6 @@
-# VERSÃO 2 #
+# VERSÃO 3 #
+
+<img src="https://giffiles.alphacoders.com/395/3951.gif" width="508px">
 
 # Aula prática - Markdown
 
