@@ -1,4 +1,5 @@
-![Uploading image.png…]()
+![image](https://github.com/Erickdn/aulaMarkdown/assets/161900128/585e927b-88ff-4995-8f0a-531111b8f6fa)
+
 
 
 
