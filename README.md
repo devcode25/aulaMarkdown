@@ -1,7 +1,8 @@
+# VERSÃO 2 
 
-# ENGENHARIA DE REQUISITOS # 
+# ENGENHARIA DE REQUISITOS 
 
-#### *CONCEITO GERAL* ####
+#### *CONCEITO GERAL* 
 
 É uma disciplina com finalidade de gerenciar os requisitos de sistema/software. É uma abordagem sistemática para elicitar, organizar e documentar os requisitos do sistema, para garantir completeza, consistência e relevância dos requisitos. A engenharia de requisitos é dividida em 2 formas, os requisitos funcionais e os não funcionais. Os funcionais, são aquelas funcionalidades essenciais do projeto, proposta principal, funções primordiais. Já os requisitos não funcionais são aquelas funcionalidades para por exemplo segurança, desempenho, confiança e usabiliidade.
 
