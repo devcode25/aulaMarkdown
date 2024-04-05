@@ -1,4 +1,4 @@
-# VERSÃO 2
+# VERSÃO 3 <img src="https://img1.picmix.com/output/stamp/normal/1/1/9/4/2564911_52315.gif" width="100px">
 # Aula prática - Markdown
 
 Este repositório servirá de base para você praticar a estrutura de texto markdown. 
