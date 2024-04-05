@@ -1,4 +1,7 @@
-# Aula prática - Markdown
+# Versão 3
+
+# Aula prática - Markdown ![img](https://media0.giphy.com/media/92YG8KKSjYhMc/200w.gif?cid=6c09b952dceafd4wowqwhpjae7gt9nzrleuhgy525opqx5iw&ep=v1_gifs_search&rid=200w.gif&ct=g)
+
 
 Este repositório servirá de base para você praticar a estrutura de texto markdown. 
 
@@ -17,3 +20,20 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
 
 ![img](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlufO7lzLZPYjfPbxkSJsHWXwuJ1keCJHKxks95hFSzQ&s)
+Elicitação de Requisitos: Compreender as necessidades dos usuários e partes interessadas, muitas vezes através de entrevistas, workshops, questionários e outras técnicas de coleta de informações.
+
+Análise de Requisitos: **Analisar e compreender os requisitos coletados para identificar inconsistências**, incompletudes, ambiguidades e conflitos. Isso geralmente envolve a criação de modelos conceituais, como diagramas de casos de uso, diagramas de classe, entre outros.
+
+Especificação de Requisitos: Documentar os requisitos de forma clara e precisa, geralmente utilizando linguagens de modelagem como UML (Unified Modeling Language) ou linguagens de especificação como a linguagem natural controlada.
+
+Validação de Requisitos: **Garantir que os requisitos documentados realmente atendem às necessidades dos usuários e partes interessadas**. Isso pode envolver revisões formais, prototipagem, simulações e outros métodos de verificação.
+
+Gerenciamento de Requisitos: Controlar e rastrear mudanças nos requisitos ao longo do ciclo de vida do projeto, garantindo que todas as partes interessadas estejam cientes das mudanças e que o produto final atenda aos requisitos acordado!
+![img](https://https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHnURM1vvPuKL5sY_AWkIxMgaYndZPqUsjlHrTedrAlRTsgLf8MshDXJj_mK0ClapEo3KeevIqoge7qRKCRYVIXpTHgOOr8Ou7LAZs4odrdEVEogfxQ6JLelITn_GsWTTYBu__BWMqlLE/s1600/ProcessoEngenhariaReq_original.png)
+
+
+------|-------|---------------|
+|Nome | Idade |Cidade         |
+|João |  30	  |São Paulo      |
+|Maria|	28	  |Rio de Janeiro |
+|Pedro|	35	  |Belo Horizonte |
