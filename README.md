@@ -1,4 +1,7 @@
-# VERSÂO 2
+<img src="https://github.com/Pontual10/aulaMarkdown/blob/vers%C3%A3o3/tenor.gif?raw=true" width="508px">
+
+# VERSÂO 3
+
 # Aula prática - Markdown
 
 Este repositório servirá de base para você praticar a estrutura de texto markdown. 
