@@ -1,6 +1,6 @@
 # versão 2
 
-# Aula prática - Markdown
+# Aula prática - Markdown <img src="https://media.tenor.com/o6WDnCmJQAgAAAAM/tamandua-anteater.gif" width="150px">
 
 Este repositório servirá de base para você praticar a estrutura de texto markdown. 
 
