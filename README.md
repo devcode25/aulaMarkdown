@@ -1,5 +1,5 @@
 ## VERSÃO 2
-# Aula prática - Markdown 
+# Aula prática - Markdown <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSvQETQYR27DjboGra9UBN5MtllTL0A7A7CZxa8uwj9A&s" alt="luffy" width="70px">
 
 Este repositório servirá de base para você praticar a estrutura de texto markdown. 
 
